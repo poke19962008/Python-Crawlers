@@ -1,0 +1,2110 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="lt-ie9 lt-ie8 lt-ie7" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><![endif]-->
+<!--[if IE 7]><html class="lt-ie9 lt-ie8" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><![endif]-->
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
+
+<!-- Contentshare CSS -->
+<link rel="stylesheet" type="text/css" href="/prog/js/conshare/css/main-style.css" />
+<link rel="stylesheet" type="text/css" href="/prog/js/conshare/css/tooltipster.min.css" />
+<!-- /contentshare CSS -->
+
+
+<title>All Nobel Prizes in Physics</title>
+
+<meta name="description" content="Nobelprize.org, The Official Web Site of the Nobel Prize">
+<meta name="keywords" content="Nobel, Nobelprize, Nobelpriset, Foundation, Prize, Alfred, Museum, Literature, Physics, Chemistry, Peace, Medicine, Physiology, Economics, Laureate, Laureates, Winner, Winners, Award, Awards, Science">
+<link href="https://plus.google.com/103477693143895827696" rel="publisher">
+
+<link href="/css/foundation5/normalize.css" rel="stylesheet" type="text/css">
+<link href="/css/foundation5/foundation.css?v=20140521" rel="stylesheet" type="text/css">
+
+<!-- komm -->
+<link href="/css/jquery/colorbox/colorbox.css" rel="stylesheet" type="text/css">
+<link href="/css/nobelslide.css" rel="stylesheet" type="text/css">
+<!-- /komm -->
+
+<link href="/mediaplayer/css/mediaplayer.css?v=20140929" rel="stylesheet" type="text/css">
+
+<!-- komm -->
+<link href="/css/jquery/jquery.multiselect.css" rel="stylesheet" type="text/css">
+<link href="/css/jquery/mselect/jquery-ui-1.8.1.custom.css" rel="stylesheet" type="text/css">
+<!-- /komm -->
+
+<link href="/educational/medicine/bloodtypinggame/css/game_style.css" rel="stylesheet" type="text/css">
+<link href="/css/nobel_custom.css?v=20141203" rel="stylesheet" type="text/css">
+
+
+<script language="javascript" type="text/javascript" src="/prog/js/foundation5/vendor/jquery.js"></script>
+<script language="javascript" type="text/javascript" src="/prog/js/videoplayer/video.js"></script>
+
+
+
+<script language="javascript" type="text/javascript" src="/__utm.js"></script>
+
+<!-- komm -->
+<!--<script language="javascript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/jquery-ui.min.js"></script>-->
+<!--<script language="javascript" type="text/javascript" src="/prog/js/faq_home.js"></script>-->
+<!-- /komm -->
+
+<!-- Contentshare JS -->
+<script type="text/javascript" src="/prog/js/conshare/js/jquery.tooltipster.min.js"></script>                
+<script src="/prog/js/conshare/js/contentshare.js"></script>
+<!-- /contentshare JS -->
+
+<!-- komm -->
+<!--<script language="javascript" type="text/javascript" src="/prog/js/jquery.tools.min.js"></script>-->
+<!--<script language="javascript" type="text/javascript" src="/prog/js/jquery/jquery.colorbox-min.js"></script>
+<script language="javascript" type="text/javascript" src="/prog/js/standard.js"></script>-->
+
+<!-- /komm -->
+
+<script language="javascript" type="text/javascript" src="/prog/php/poll/pulse.js"></script>
+
+<!-- komm -->
+<!--<script language="javascript" type="text/javascript" src="/prog/js/jquery/jquery.clearfield.packed.js"></script>
+<script language="javascript" type="text/javascript" src="/prog/js/jquery/jquery.meio.mask.min.js"></script>
+<script language="javascript" type="text/javascript" src="/prog/js/jquery/jquery.multiselect.min.js"></script>
+<script language="javascript" type="text/javascript" src="/prog/js/createform/create.js"></script>-->
+<!-- /komm -->
+
+
+<style>
+/* The Grid ---------------------- */
+.lt-ie9 .row { width: 940px; max-width: 100%; min-width: 768px; margin: 0 auto; }
+.lt-ie9 .row .row { width: auto; max-width: none; min-width: 0; margin: 0 -15px; }
+.lt-ie9 .row.large-collapse .column,
+.lt-ie9 .row.large-collapse .columns { padding: 0; }
+.lt-ie9 .row .row { width: auto; max-width: none; min-width: 0; margin: 0 -15px; }
+.lt-ie9 .row .row.large-collapse { margin: 0; }
+ 
+.lt-ie9 .column, .lt-ie9 .columns { float: left; min-height: 1px; padding: 0 15px; position: relative; }
+.lt-ie9 .column.large-centered, .columns.large-centered { float: none; margin: 0 auto; }
+ 
+.lt-ie9 [class*="column"] + [class*="column"]:last-child { float: right; }
+.lt-ie9 [class*="column"] + [class*="column"].end { float: left; }
+ 
+.lt-ie9 .large-1,
+.lt-ie9 .row .large-1 { width: 8.33333%; }
+ 
+.lt-ie9 .large-2,
+.lt-ie9 .row .large-2 { width: 16.66667%; }
+ 
+.lt-ie9 .large-3,
+.lt-ie9 .row .large-3 { width: 25%; }
+ 
+.lt-ie9 .large-4,
+.lt-ie9 .row .large-4 { width: 33.33333%; }
+ 
+.lt-ie9 .large-5,
+.lt-ie9 .row .large-5 { width: 41.66667%; }
+ 
+.lt-ie9 .large-6,
+.lt-ie9 .row .large-6 { width: 50%; }
+ 
+.lt-ie9 .large-7,
+.lt-ie9 .row .large-7 { width: 58.33333%; }
+ 
+.lt-ie9 .large-8,
+.lt-ie9 .row .large-8 { width: 66.66667%; }
+ 
+.lt-ie9 .large-9,
+.lt-ie9 .row .large-9 { width: 75%; }
+ 
+.lt-ie9 .large-10,
+.lt-ie9 .row .large-10 { width: 83.33333%; }
+ 
+.lt-ie9 .large-11,
+.lt-ie9 .row .large-11 { width: 91.66667%; }
+ 
+.lt-ie9 .large-12,
+.lt-ie9 .row .large-12 { width: 100%; }
+ 
+.lt-ie9 .row .large-offset-1 { margin-left: 8.33333%; }
+.lt-ie9 .row .large-offset-2 { margin-left: 16.66667%; }
+.lt-ie9 .row .large-offset-3 { margin-left: 25%; }
+.lt-ie9 .row .large-offset-4 { margin-left: 33.33333%; }
+.lt-ie9 .row .large-offset-5 { margin-left: 41.66667%; }
+.lt-ie9 .row .large-offset-6 { margin-left: 50%; }
+.lt-ie9 .row .large-offset-7 { margin-left: 58.33333%; }
+.lt-ie9 .row .large-offset-8 { margin-left: 66.66667%; }
+.lt-ie9 .row .large-offset-9 { margin-left: 75%; }
+.lt-ie9 .row .large-offset-10 { margin-left: 83.33333%; }
+ 
+.lt-ie9 .pull-2 { right: 16.66667%; }
+.lt-ie9 .pull-3 { right: 25%; }
+.lt-ie9 .pull-4 { right: 33.33333%; }
+.lt-ie9 .pull-5 { right: 41.66667%; }
+.lt-ie9 .pull-6 { right: 50%; }
+.lt-ie9 .pull-7 { right: 58.33333%; }
+.lt-ie9 .pull-8 { right: 66.66667%; }
+.lt-ie9 .pull-9 { right: 75%; }
+.lt-ie9 .pull-10 { right: 83.33333%; }
+ 
+.lt-ie9 .push-2 { left: 16.66667%; }
+.lt-ie9 .push-3 { left: 25%; }
+.lt-ie9 .push-4 { left: 33.33333%; }
+.lt-ie9 .push-5 { left: 41.66667%; }
+.lt-ie9 .push-6 { left: 50%; }
+.lt-ie9 .push-7 { left: 58.33333%; }
+.lt-ie9 .push-8 { left: 66.66667%; }
+.lt-ie9 .push-9 { left: 75%; }
+.lt-ie9 .push-10 { left: 83.33333%; }
+ 
+/* Nicolas Gallagher's micro clearfix */
+.lt-ie9 .row { *zoom: 1; }
+.lt-ie9 .row:before, .row:after { content: " "; display: table; }
+.lt-ie9 .row:after { clear: both; }
+
+
+
+
+/* IE8 fix for the topbar */
+.lt-ie9 .top-bar {
+background: #2f2f2f;
+*zoom: 1;
+overflow: visible;
+}
+.lt-ie9 .top-bar:before, .lt-ie9 .top-bar:after {
+content: " ";
+display: table;
+}
+.lt-ie9 .top-bar:after { clear: both; }
+.lt-ie9 .top-bar .toggle-topbar { display: none; }
+.lt-ie9 .top-bar .title-area { float: left; }
+.lt-ie9 .top-bar .name h1 a { width: auto; }
+.lt-ie9 .top-bar input,
+.lt-ie9 .top-bar .button {
+line-height: 2em;
+font-size: 0.875em;
+height: 2em;
+padding: 0 10px;
+position: relative;
+top: 8px;
+}
+.lt-ie9 .top-bar.expanded { background: #111111; }
+.lt-ie9 .contain-to-grid .top-bar {
+max-width: 57.5em;
+margin: 0 auto;
+}
+.lt-ie9 .top-bar-section {
+-webkit-transition: none 0 0;
+-moz-transition: none 0 0;
+transition: none 0 0;
+left: 0 !important;
+}
+.lt-ie9 .top-bar-section ul {
+width: auto;
+height: auto !important;
+display: inline;
+}
+.lt-ie9 .top-bar-section ul li { float: left; }
+.lt-ie9 .top-bar-section ul li > a { padding-right: 14px !important; }
+.lt-ie9 .top-bar-section ul li .js-generated { display: none; }
+.lt-ie9 .top-bar-section li a:not(.button) {
+padding: 0 15px;
+line-height: 45px;
+background: #111111;
+}
+.lt-ie9 .top-bar-section li a:not(.button):hover { background: #2b2b2b; }
+.lt-ie9 .top-bar-section .has-dropdown > a { padding-right: 35px !important; }
+.lt-ie9 .top-bar-section .has-dropdown > a:after {
+content: "";
+display: block;
+width: 0;
+height: 0;
+border: solid 5px;
+border-color: rgba(255, 255, 255, 0.5) transparent transparent transparent;
+margin-top: -2.5px;
+}
+.lt-ie9 .top-bar-section .has-dropdown.moved { position: relative; }
+.lt-ie9 .top-bar-section .has-dropdown.moved > .dropdown { visibility: hidden; }
+.lt-ie9 .top-bar-section .has-dropdown:hover > .dropdown,
+.lt-ie9 .top-bar-section .has-dropdown:active > .dropdown { visibility: visible; }
+.lt-ie9 .top-bar-section .has-dropdown .dropdown li.has-dropdown > a:after {
+border: none;
+content: "\00bb";
+margin-top: -7px;
+right: 5px;
+}
+.lt-ie9 .top-bar-section .dropdown {
+left: 0;
+top: auto;
+background: transparent;
+}
+.lt-ie9 .top-bar-section .dropdown li a {
+line-height: 1;
+white-space: nowrap;
+padding: 7px 15px;
+background: #1e1e1e;
+}
+.lt-ie9 .top-bar-section .dropdown li label {
+white-space: nowrap;
+background: #1e1e1e;
+}
+.lt-ie9 .top-bar-section .dropdown li .dropdown {
+left: 100%;
+top: 0;
+}
+.lt-ie9 .top-bar-section > ul > .divider {
+border-bottom: none;
+border-top: none;
+border-right: solid 1px #2b2b2b;
+border-left: solid 1px black;
+clear: none;
+height: 45px;
+width: 0px;
+}
+.lt-ie9 .top-bar-section .has-form {
+background: #111111;
+padding: 0 15px;
+height: 45px;
+}
+.lt-ie9 .top-bar-section ul.right li .dropdown {
+left: auto;
+right: 0;
+}
+.lt-ie9 .top-bar-section ul.right li .dropdown li .dropdown { right: 100%; }
+</style>
+
+<style>
+.ratingtable {
+	display: none;
+}
+.video_rating_wrapper {
+	display: none;
+}
+</style>
+
+
+
+
+                  <script type="text/javascript">
+                    var AKSB=AKSB||{};AKSB.q=[];AKSB.mark=function(c,b){AKSB.q.push(["mark",c,b||(new Date).getTime()])};AKSB.measure=function(c,b,a){AKSB.q.push(["measure",c,b,a||(new Date).getTime()])};AKSB.done=function(c){AKSB.q.push(["done",c])};AKSB.mark("firstbyte",(new Date).getTime());AKSB.prof={custid:"135049",ustr:"",originlat:0,clientrtt:225,ghostip:"205.250.85.77",ipv6:false,pct:10,xhrtest:false,clientip:"103.4.222.66",requestid:"bf7a465"};
+                    (function(b){var a=document.createElement("iframe");a.src="javascript:false";(a.frameElement||a).style.cssText="width: 0; height: 0; border: 0; display: none";var c=document.getElementsByTagName("script"),c=c[c.length-1];c.parentNode.insertBefore(a,c);a=a.contentWindow.document;a.open().write("<body onload=\"var js = document.createElement('script');js.id = 'aksb-ifr';js.src = '"+b+"';document.body.appendChild(js);\">");a.close()})(("https:"===document.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js");
+                    </script>
+                    </head>
+
+<body>
+
+<!-- Logo, search, quick links FOUNDATION 5 -->
+<div class="row" id="top-container">
+    <div class="large-12 columns show-for-small" id="mobile-logo">
+    	<a href="/" style="display: block;"><img alt="Nobelprize.org" src="/images/logo_mobile.png"></a>
+    </div>
+    <div class="medium-4 columns hide-for-small" id="logo-container">
+        <a href="/"><img alt="Nobelprize.org" src="/images/logo-nobelprize_org.png"></a>
+    </div>
+    <div id="quick-links-container" class="medium-6 columns hide-for-small" style="background-color: none; text-align: right; padding-top: 40px;">
+        <ul style="list-style-type: none; margin: 0;">
+            <li style="display: inline; margin-right: 10px;">
+                <a style="padding-left: 23px; color: #fff;" class="quick-link-video" href="/mediaplayer/">Video</a>
+            </li>
+            <li style="display: inline; margin-right: 10px;">
+            	<a style="padding-left: 23px; color: #fff;" class="quick-link-podcast" href="/podcast/">Podcast</a>
+            </li>
+            <li style="display: inline;">
+                <a style="padding-left: 25px; color: #fff;" class="quick-link-about" href="/nobel_organizations/nobelmedia/nobelprize_org/">About Us</a>
+            </li>
+        </ul>
+    </div>
+    <div id="top-search" class="medium-2 columns hide-for-small">
+    	<form action="http://search.nobelprize.org/search/nobel2013/" method="get" id="searchform" name="search-site-form" style="margin: 0;">
+            <input type="hidden" name="i" value="en" >
+            <input type="hidden" name="charset" value="UTF-8" >
+            <input type="hidden" name="oenc" value="UTF-8" >
+            <div style="float: left; width: 80%;">
+            	<input placeholder="Search" type="text" class="search-form-input" id="searchform" name="q">
+            </div>
+            <div style="float: left; width: 20%; text-align: right;">
+            	<input type="submit" value="" class="top-search-button">
+            </div>
+    	</form>
+    </div>
+</div>
+<!-- /Logo, search, quick links -->
+
+<!-- Main navigation -->
+<div class="row" style="margin-bottom: 15px;">
+    <nav class="top-bar" data-topbar>
+   		<ul class="title-area">
+        	<li class="name"></li>
+        	<li class="toggle-topbar menu-icon"><a href="#"><span>menu</span></a></li>
+    	</ul>
+    
+      <section class="top-bar-section">
+        <ul class="left">
+          <li><a class="main-navigation-link" href="/">Home</a></li>
+          <li class="divider"></li>
+          <li class="has-dropdown active"><a class="main-navigation-link" href="/nobel_prizes/">Nobel Prizes and Laureates</a>
+          	<ul class="dropdown">
+                <li class="show-for-touch"><a href="/nobel_prizes/" class="main-nav-dropdown-link">Nobel Prizes and Laureates</a></li>
+            	<li><a href="/nobel_prizes/physics/" class="main-nav-dropdown-link">Physics Prize</a></li>
+                <li><a href="/nobel_prizes/chemistry/" class="main-nav-dropdown-link">Chemistry Prize</a></li>
+            	<li><a href="/nobel_prizes/medicine/" class="main-nav-dropdown-link">Medicine Prize</a></li>
+                <li><a href="/nobel_prizes/literature/" class="main-nav-dropdown-link">Literature Prize</a></li>
+                <li><a href="/nobel_prizes/peace/" class="main-nav-dropdown-link">Peace Prize</a></li>
+                <li><a href="/nobel_prizes/economic-sciences/" class="main-nav-dropdown-link">Prize in Economic Sciences</a></li>
+                <li><a href="/nobel_prizes/facts/" class="main-nav-dropdown-link">Quick Facts</a></li>
+            </ul>
+          </li>
+          <li class="divider"></li>
+          <li class="has-dropdown"><a class="main-navigation-link" href="/nomination/">Nomination</a>
+          	<ul class="dropdown">
+            	<li class="show-for-touch"><a href="/nomination/" class="main-nav-dropdown-link">Nomination</a></li>
+            	<li><a href="/nomination/physics/" class="main-nav-dropdown-link">Physics Prize</a></li>
+                <li><a href="/nomination/chemistry/" class="main-nav-dropdown-link">Chemistry Prize</a></li>
+            	<li><a href="/nomination/medicine/" class="main-nav-dropdown-link">Medicine Prize</a></li>
+                <li><a href="/nomination/literature/" class="main-nav-dropdown-link">Literature Prize</a></li>
+                <li><a href="/nomination/peace/" class="main-nav-dropdown-link">Peace Prize</a></li>
+                <li><a href="/nomination/economic-sciences/" class="main-nav-dropdown-link">Prize in Economic Sciences</a></li>
+                <li><a href="/nomination/archive/" class="main-nav-dropdown-link">Nomination Archive</a></li>
+            </ul>
+          </li>
+          <li class="divider"></li>
+          <li class="has-dropdown"><a class="main-navigation-link" href="/ceremonies/">Ceremonies</a>
+          	<ul class="dropdown">
+            	<li class="show-for-touch"><a href="/ceremonies/" class="main-nav-dropdown-link">Ceremonies</a></li>
+            	<li><a href="/ceremonies/archive/" class="main-nav-dropdown-link">Ceremony Archive</a></li>
+                <li><a href="/ceremonies/menus/" class="main-nav-dropdown-link">Nobel Banquet Menus</a></li>
+            	<li><a href="/ceremonies/dresscode/" class="main-nav-dropdown-link">Nobel Banquet Dress Code</a></li>
+                <li><a href="/ceremonies/queens-gowns/" class="main-nav-dropdown-link">The Queen's Gowns</a></li>
+                <li><a href="/ceremonies/eyewitness/" class="main-nav-dropdown-link">Eyewitness Reports</a></li>
+            </ul>
+          </li>
+          <li class="divider"></li>
+          <li class="has-dropdown"><a class="main-navigation-link" href="/alfred_nobel/">Alfred Nobel</a>
+          	<ul class="dropdown">
+            	<li class="show-for-touch"><a href="/alfred_nobel/" class="main-nav-dropdown-link">Alfred Nobel</a></li>
+            	<li><a href="/alfred_nobel/will/" class="main-nav-dropdown-link">Alfred Nobel's Will</a></li>
+                <li><a href="/alfred_nobel/biographical/" class="main-nav-dropdown-link">Alfred Nobel's Life</a></li>
+                <li><a href="/alfred_nobel/library/" class="main-nav-dropdown-link">Private Library of Alfred Nobel</a></li>
+                <li><a href="/alfred_nobel/books/" class="main-nav-dropdown-link">Books on Alfred Nobel</a></li>
+            </ul>
+          </li>
+          
+          <!-- Educational -->
+          <li class="divider"></li>
+          <li class=""><a class="main-navigation-link" href="/educational/">Educational</a></li>
+          <!-- /educational -->
+          
+          <li class="divider"></li>
+          
+          <li class="has-dropdown"><a class="main-navigation-link" href="/events/">Events</a>
+          	<ul class="dropdown">
+            	<li class="show-for-touch"><a href="/events/" class="main-nav-dropdown-link">Events</a></li>
+            	<li><a href="/events/nobel-week-dialogue/" class="main-nav-dropdown-link">Nobel Week Dialogue</a></li>
+                <li><a href="/events/nobel-prize-inspiration-initiative/" class="main-nav-dropdown-link">Nobel Prize Inspiration Initiative</a></li>
+            	<li><a href="/events/nobel-concert/" class="main-nav-dropdown-link">Nobel Prize Concert</a></li>
+                <li><a href="/events/nobel-museum/" class="main-nav-dropdown-link">Exhibitions at the Nobel Museum</a></li>
+                <li><a href="/events/nobel-peace-center/" class="main-nav-dropdown-link">Exhibitions at the Nobel Peace Center</a></li>
+                <li><a href="/events/calendar/" class="main-nav-dropdown-link">Events Calendar</a></li>
+            </ul>
+          </li>
+          
+          <li class="quick-link-nav show-for-small"><a href="/podcast/" class="main-navigation-link">Podcast</a></li>
+          
+          <li class="show-for-small has-form">
+            <form action="http://search.nobelprize.org/search/nobel2013/" method="get" id="searchform" name="search-site-form" style="margin: 0;">
+                <input type="hidden" name="i" value="en" >
+                <input type="hidden" name="charset" value="UTF-8" >
+                <input type="hidden" name="oenc" value="UTF-8" >
+                <input placeholder="Search" type="text" id="searchform" name="q" style="border: 0; height: 26px; background-color: #e4e4e4; margin: 0; padding: 0 25px 0 5px; border-radius: 3px; background-image: url(/images/icons/icon-search.png); background-repeat: no-repeat; background-position: 97% 50%;">
+            </form>
+          </li>
+          <li class="quick-link-nav show-for-small"><a href="/nobel_organizations/nobelmedia/nobelprize_org/" class="main-navigation-link">About Us</a></li>
+      </section>
+    </nav>
+</div>
+<!-- /main navigation -->
+
+<style>
+#left-arrow:hover {
+	cursor: pointer;
+}
+
+#right-arrow:hover {
+	cursor: pointer;
+}
+</style>
+<div class="row">
+	<!-- Left column -->
+    <div id="nobel-left-col" class="large-3 columns hide-for-small" style="margin-top: 10px; padding-top: 15px; padding-bottom: 600px; background-color: #f0f0f0; border-right: 1px solid #d3d3d3;"><!--eri-no-index-->
+
+
+<div class="row">
+    <div class="large-12 columns">
+        <h5>Lists of Nobel Prizes and Laureates</h5>
+    </div>
+</div>
+<div class="row">
+    <div class="large-12 columns">
+	<form name="goto" style="margin-bottom: 0;">
+        <select name="gotolist" onchange="location.href=goto.gotolist.options[selectedIndex].value" style="font-size: 0.813em;">
+            <option value="" selected>Choose a list</option>
+            <option value="/nobel_prizes/physics/laureates/">Show all Physics Prizes</option>
+            <option value="/nobel_prizes/chemistry/laureates/">Show all Chemistry Prizes</option>
+            <option value="/nobel_prizes/medicine/laureates/">Show all Medicine Prizes</option>
+            <option value="/nobel_prizes/literature/laureates/">Show all Literature Prizes</option>
+            <option value="/nobel_prizes/peace/laureates/">Show all Peace Prizes</option>
+            <option value="/nobel_prizes/economic-sciences/laureates/">Show all Prizes in Economic Sciences</option>
+            <option value="/nobel_prizes/lists/all/index.html">Show all Nobel Prizes</option>
+            <option value="/nobel_prizes/lists/organizations.html">Show all Awarded Organizations</option>
+            <option value="/nobel_prizes/lists/women.html">Show all Awarded Women</option>
+            <option value="/nobel_prizes/lists/universities.html">Nobel Laureates: Affiliation</option>
+            <option value="/nobel_prizes/lists/age.html">Nobel Laureates: Age</option>
+            <option value="/nobel_prizes/lists/countries.html">Nobel Laureates: Country of Birth</option>
+            <option value="/nobel_prizes/physics/fields.html">Physics Laureates: Fields</option>
+            <option value="/nobel_prizes/chemistry/fields.html">Chemistry Laureates: Fields</option>
+            <option value="/nobel_prizes/medicine/fields.html">Medicine Laureates: Fields</option>
+            <option value="/nobel_prizes/literature/genres.html">Literature Laureates: Genres</option>
+            <option value="/nobel_prizes/peace/fields.html">Peace Laureates: Fields</option>
+            <option value="/nobel_prizes/economic-sciences/fields.html">Economic Sciences Laureates: Fields</option>
+        </select>
+	</form>
+    </div>
+</div>
+
+
+
+<div class="row"><div class="large-2 columns" style="padding-right: 0;"><a href="/nobel_prizes/physics/laureates/index.html?images=yes"><img src="/images/checkbox-unchecked.png" style="padding-top: 5px; padding-left: 0px "></a></div><div class="large-10 columns"  style="padding-left: 0px"><p>Show with photos</p></div><div class="large-12 columns"><p><a href="/nobel_prizes/lists/all/create_list.html">More options</a></p></div></div>
+<script>
+
+$(document).ready(function() {
+	
+	setTimeout(calc_height, 1000);
+});
+
+function calc_height() {
+	
+	var left_height = $('#nobel-left-col').height();
+	left_height = Math.round(left_height);
+	var middle_height = $('#nobel-middle-col').height();
+	middle_height = Math.round(middle_height);
+	var right_height = $('#nobel-right-col').height();
+	right_height = Math.round(right_height);
+	
+	// Calculate the height of the containers and make it look right
+	var highest = left_height;
+	
+	if(middle_height > highest) {
+		highest = middle_height;
+	}
+	
+	if(right_height > highest) {
+		highest = right_height;
+	}
+	
+	var highest_mid = highest+20;
+	$('#nobel-left-col').height(highest);
+	$('#nobel-middle-col').height(highest_mid);
+	$('#nobel-right-col').height(highest);
+}
+
+</script>
+
+<!--
+
+<div class="row">
+    <div class="large-12 columns">
+        <h5>Find Nobel Prizes and Laureates</h5>
+    </div>
+</div>
+<div class="row">
+    <div class="large-12 columns">
+        <select id="left-col-filter-dropdown">
+            <option id="che">Chemistry</option>
+            <option id="phy">Physics</option>
+            <option id="pea">Peace</option>
+            <option id="lit">Literature</option>
+            <option id="med">Medicine</option>
+            <option id="eco">Economic Sciences</option>
+        </select>
+    </div>
+</div>
+
+-->
+
+        
+        <hr>
+
+
+<!--/eri-no-index-->
+
+        
+    </div>
+    
+    <!-- Small left col -->
+    <div class="small-12 columns show-for-small nobel-small-left-col" style="background-color: #fff; margin-bottom: 15px; padding-bottom: 15px;">
+    	
+
+<div class="row">
+    <div class="large-12 columns">
+        <h5>Lists of Nobel Prizes and Laureates</h5>
+    </div>
+</div>
+<div class="row">
+    <div class="large-12 columns">
+	<form name="gotosmall" style="margin-bottom: 0;">
+        <select name="gotolistsmall" onchange="location.href=gotosmall.gotolistsmall.options[selectedIndex].value" style="font-size: 0.813em;">
+            <option value="" selected>Choose a list</option>
+            <option value="/nobel_prizes/physics/laureates/">Show all Physics Prizes</option>
+            <option value="/nobel_prizes/chemistry/laureates/">Show all Chemistry Prizes</option>
+            <option value="/nobel_prizes/medicine/laureates/">Show all Medicine Prizes</option>
+            <option value="/nobel_prizes/literature/laureates/">Show all Literature Prizes</option>
+            <option value="/nobel_prizes/peace/laureates/">Show all Peace Prizes</option>
+            <option value="/nobel_prizes/economic-sciences/laureates/">Show all Prizes in Economic Sciences</option>
+            <option value="/nobel_prizes/lists/all/index.html">Show all Nobel Prizes</option>
+            <option value="/nobel_prizes/lists/organizations.html">Show all Awarded Organizations</option>
+            <option value="/nobel_prizes/lists/women.html">Show all Awarded Women</option>
+            <option value="/nobel_prizes/lists/universities.html">Nobel Laureates: Affiliation</option>
+            <option value="/nobel_prizes/lists/age.html">Nobel Laureates: Age</option>
+            <option value="/nobel_prizes/lists/countries.html">Nobel Laureates: Country of Birth</option>
+            <option value="/nobel_prizes/physics/fields.html">Physics Laureates: Fields</option>
+            <option value="/nobel_prizes/chemistry/fields.html">Chemistry Laureates: Fields</option>
+            <option value="/nobel_prizes/medicine/fields.html">Medicine Laureates: Fields</option>
+            <option value="/nobel_prizes/literature/genres.html">Literature Laureates: Genres</option>
+            <option value="/nobel_prizes/peace/fields.html">Peace Laureates: Fields</option>
+            <option value="/nobel_prizes/economic-sciences/fields.html">Economic Sciences Laureates: Fields</option>
+        </select>
+	</form>
+    </div>
+</div>
+
+
+
+<div class="row"><div class="large-2 columns" style="padding-right: 0;"><a href="/nobel_prizes/physics/laureates/index.html?images=yes"><img src="/images/checkbox-unchecked.png" style="padding-top: 5px; padding-left: 0px "></a></div><div class="large-10 columns"  style="padding-left: 0px"><p>Show with photos</p></div><div class="large-12 columns"><p><a href="/nobel_prizes/lists/all/create_list.html">More options</a></p></div></div>
+<script>
+
+$(document).ready(function() {
+	
+	setTimeout(calc_height, 1000);
+});
+
+function calc_height() {
+	
+	var left_height = $('#nobel-left-col').height();
+	left_height = Math.round(left_height);
+	var middle_height = $('#nobel-middle-col').height();
+	middle_height = Math.round(middle_height);
+	var right_height = $('#nobel-right-col').height();
+	right_height = Math.round(right_height);
+	
+	// Calculate the height of the containers and make it look right
+	var highest = left_height;
+	
+	if(middle_height > highest) {
+		highest = middle_height;
+	}
+	
+	if(right_height > highest) {
+		highest = right_height;
+	}
+	
+	var highest_mid = highest+20;
+	$('#nobel-left-col').height(highest);
+	$('#nobel-middle-col').height(highest_mid);
+	$('#nobel-right-col').height(highest);
+}
+
+</script>
+
+<!--
+
+<div class="row">
+    <div class="large-12 columns">
+        <h5>Find Nobel Prizes and Laureates</h5>
+    </div>
+</div>
+<div class="row">
+    <div class="large-12 columns">
+        <select id="left-col-filter-dropdown">
+            <option id="che">Chemistry</option>
+            <option id="phy">Physics</option>
+            <option id="pea">Peace</option>
+            <option id="lit">Literature</option>
+            <option id="med">Medicine</option>
+            <option id="eco">Economic Sciences</option>
+        </select>
+    </div>
+</div>
+
+-->
+
+		    </div>
+    <!-- /small left col -->
+    
+    <!-- /left column -->
+    <!-- Middle column -->
+	<div id="nobel-middle-col" class="large-6 columns" style="padding-top: 15px; padding-bottom: 15px; background-color: #ffffff;">
+          <div class="row">
+            <div class="large-12 columns">
+				
+<!-- Start Main Content -->
+
+ <div id="square_header"><img src="/images/physics02.jpg" alt="Collage: Erwin Schrödinger, Marie Curie, Albert Einstein, Nils Bohr and Henri Becquerel">
+   <h1>All Nobel Prizes in Physics</h1>
+     
+     <p class="ingress">The Nobel Prize in Physics has been awarded 108 times to 199 Nobel Laureates between 1901 and 2014. John Bardeen is the only Nobel Laureate who has been awarded the Nobel Prize in Physics twice, in 1956 and 1972. This means that a total of 198 individuals have received the Nobel Prize in Physics. Click on the links to get more information.</p> 
+ </div>
+
+<div style="clear:both"></div>
+
+
+
+<style>
+#choose-year-down:hover, #choose-year-up:hover {
+	cursor: pointer;
+}
+</style>
+
+<script>
+	
+$(document).ready(function() {
+	
+	var list_current_year = $('#choose-year-input').val();
+	var choose_year_current_url = document.URL;
+	
+	pattern = /year=/
+	
+	if(!choose_year_current_url.match(pattern)) {
+		
+		choose_year_current_url = 'http://www.nobelprize.org/nobel_prizes/lists/year/?year=2014&images=yes';
+	}
+	
+	/*if(parseInt(list_current_year) == 2014) {
+		
+		document.location = 'http://www.nobelprize.org/nobel_prizes/lists/year/?year=2014';
+	}*/
+	
+	//# Tap up
+	$('#choose-year-up').click(function() {
+		
+		if(parseInt(list_current_year) < 2014) {
+			
+			var list_new_year = parseInt(list_current_year)+1;
+			var choose_year_new_url = choose_year_current_url.replace(list_current_year, list_new_year);
+			
+			document.location = choose_year_new_url;
+		}
+	});
+	
+	//# Tap down
+	$('#choose-year-down').click(function() {
+		
+		if(parseInt(list_current_year) > 1901) {
+			
+			var list_new_year = parseInt(list_current_year)-1;
+			var choose_year_new_url = choose_year_current_url.replace(list_current_year, list_new_year);
+			
+			document.location = choose_year_new_url;
+		}
+	});
+	
+	//# Year input
+	$('#choose-year-input').keyup(function() {
+		
+		if($(this).val().length == 4) {
+			
+			var list_new_year = $(this).val();
+			
+			if(parseInt(list_new_year) < 2015 && parseInt(list_new_year) > 1900) {
+				
+				choose_year_new_url = choose_year_current_url.replace(list_current_year, list_new_year);
+				
+				document.location = choose_year_new_url;
+			}
+		}
+	});
+});
+
+</script>
+
+<div style="clear:both"></div>
+
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/2014/">The Nobel Prize in Physics 2014</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/2014/akasaki-facts.html">Isamu Akasaki</a>, <a href="/nobel_prizes/physics/laureates/2014/amano-facts.html">Hiroshi Amano</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/2014/nakamura-facts.html">Shuji Nakamura</a></h6>
+<p>"for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/2013/">The Nobel Prize in Physics 2013</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/2013/englert-facts.html">Fran&ccedil;ois Englert</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/2013/higgs-facts.html">Peter W. Higgs</a></h6>
+<p>"for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN&#039;s Large Hadron Collider"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/2012/">The Nobel Prize in Physics 2012</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/2012/haroche-facts.html">Serge Haroche</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/2012/wineland-facts.html">David J. Wineland</a></h6>
+<p>"for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/2011/">The Nobel Prize in Physics 2011</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/2011/perlmutter-facts.html">Saul Perlmutter</a>, <a href="/nobel_prizes/physics/laureates/2011/schmidt-facts.html">Brian P. Schmidt</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/2011/riess-facts.html">Adam G. Riess</a></h6>
+<p>"for the discovery of the accelerating expansion of the Universe through observations of distant supernovae"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/2010/">The Nobel Prize in Physics 2010</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/2010/geim-facts.html">Andre Geim</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/2010/novoselov-facts.html">Konstantin Novoselov</a></h6>
+<p>"for groundbreaking experiments regarding the two-dimensional material graphene"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/2009/">The Nobel Prize in Physics 2009</a></h3>
+<h6><a href="/nobel_prizes/physics/laureates/2009/kao-facts.html">Charles Kuen Kao</a></h6>
+<p>"for groundbreaking achievements concerning the transmission of light in fibers for optical communication"</p>
+<h6><a href="/nobel_prizes/physics/laureates/2009/boyle-facts.html">Willard S. Boyle</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/2009/smith-facts.html">George E. Smith</a></h6>
+<p>"for the invention of an imaging semiconductor circuit - the CCD sensor"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/2008/">The Nobel Prize in Physics 2008</a></h3>
+<h6><a href="/nobel_prizes/physics/laureates/2008/nambu-facts.html">Yoichiro Nambu</a></h6>
+<p>"for the discovery of the mechanism of spontaneous broken symmetry in subatomic physics"</p>
+<h6><a href="/nobel_prizes/physics/laureates/2008/kobayashi-facts.html">Makoto Kobayashi</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/2008/maskawa-facts.html">Toshihide Maskawa</a></h6>
+<p>"for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/2007/">The Nobel Prize in Physics 2007</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/2007/fert-facts.html">Albert Fert</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/2007/grunberg-facts.html">Peter Gr&uuml;nberg</a></h6>
+<p>"for the discovery of Giant Magnetoresistance"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/2006/">The Nobel Prize in Physics 2006</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/2006/mather-facts.html">John C. Mather</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/2006/smoot-facts.html">George F. Smoot</a></h6>
+<p>"for their discovery of the blackbody form and anisotropy of the cosmic microwave background radiation"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/2005/">The Nobel Prize in Physics 2005</a></h3>
+<h6><a href="/nobel_prizes/physics/laureates/2005/glauber-facts.html">Roy J. Glauber</a></h6>
+<p>"for his contribution to the quantum theory of optical coherence"</p>
+<h6><a href="/nobel_prizes/physics/laureates/2005/hall-facts.html">John L. Hall</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/2005/hansch-facts.html">Theodor W. H&auml;nsch</a></h6>
+<p>"for their contributions to the development of laser-based precision spectroscopy, including the optical frequency comb technique"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/2004/">The Nobel Prize in Physics 2004</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/2004/gross-facts.html">David J. Gross</a>, <a href="/nobel_prizes/physics/laureates/2004/politzer-facts.html">H. David Politzer</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/2004/wilczek-facts.html">Frank Wilczek</a></h6>
+<p>"for the discovery of asymptotic freedom in the theory of the strong interaction"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/2003/">The Nobel Prize in Physics 2003</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/2003/abrikosov-facts.html">Alexei A. Abrikosov</a>, <a href="/nobel_prizes/physics/laureates/2003/ginzburg-facts.html">Vitaly L. Ginzburg</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/2003/leggett-facts.html">Anthony J. Leggett</a></h6>
+<p>"for pioneering contributions to the theory of superconductors and superfluids"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/2002/">The Nobel Prize in Physics 2002</a></h3>
+<h6><a href="/nobel_prizes/physics/laureates/2002/davis-facts.html">Raymond Davis Jr.</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/2002/koshiba-facts.html">Masatoshi Koshiba</a></h6>
+<p>"for pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos"</p>
+<h6><a href="/nobel_prizes/physics/laureates/2002/giacconi-facts.html">Riccardo Giacconi</a></h6>
+<p>"for pioneering contributions to astrophysics, which have led to the discovery of cosmic X-ray sources"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/2001/">The Nobel Prize in Physics 2001</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/2001/cornell-facts.html">Eric A. Cornell</a>, <a href="/nobel_prizes/physics/laureates/2001/ketterle-facts.html">Wolfgang Ketterle</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/2001/wieman-facts.html">Carl E. Wieman</a></h6>
+<p>"for the achievement of Bose-Einstein condensation in dilute gases of alkali atoms, and for early fundamental studies of the properties of the condensates"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/2000/">The Nobel Prize in Physics 2000</a></h3>
+<p>"for basic work on information and communication technology"</p><h6><a href="/nobel_prizes/physics/laureates/2000/alferov-facts.html">Zhores I. Alferov</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/2000/kroemer-facts.html">Herbert Kroemer</a></h6>
+<p>"for developing semiconductor heterostructures used in high-speed- and opto-electronics"</p>
+<h6><a href="/nobel_prizes/physics/laureates/2000/kilby-facts.html">Jack S. Kilby</a></h6>
+<p>"for his part in the invention of the integrated circuit"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1999/">The Nobel Prize in Physics 1999</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1999/thooft-facts.html">Gerardus &#039;t Hooft</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1999/veltman-facts.html">Martinus J.G. Veltman</a></h6>
+<p>"for elucidating the quantum structure of electroweak interactions in physics"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1998/">The Nobel Prize in Physics 1998</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1998/laughlin-facts.html">Robert B. Laughlin</a>, <a href="/nobel_prizes/physics/laureates/1998/stormer-facts.html">Horst L. St&ouml;rmer</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1998/tsui-facts.html">Daniel C. Tsui</a></h6>
+<p>"for their discovery of a new form of quantum fluid with fractionally charged excitations"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1997/">The Nobel Prize in Physics 1997</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1997/chu-facts.html">Steven Chu</a>, <a href="/nobel_prizes/physics/laureates/1997/cohen-tannoudji-facts.html">Claude Cohen-Tannoudji</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1997/phillips-facts.html">William D. Phillips</a></h6>
+<p>"for development of methods to cool and trap atoms with laser light"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1996/">The Nobel Prize in Physics 1996</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1996/lee-facts.html">David M. Lee</a>, <a href="/nobel_prizes/physics/laureates/1996/osheroff-facts.html">Douglas D. Osheroff</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1996/richardson-facts.html">Robert C. Richardson</a></h6>
+<p>"for their discovery of superfluidity in helium-3"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1995/">The Nobel Prize in Physics 1995</a></h3>
+<p>"for pioneering experimental contributions to lepton physics"</p><h6><a href="/nobel_prizes/physics/laureates/1995/perl-facts.html">Martin L. Perl</a></h6>
+<p>"for the discovery of the tau lepton"</p>
+<div class="by_year_clear"></div>
+		<h6><a href="/nobel_prizes/physics/laureates/1995/reines-facts.html">Frederick Reines</a></h6>
+<p>"for the detection of the neutrino"</p>
+<div class="by_year_clear"></div>
+		</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1994/">The Nobel Prize in Physics 1994</a></h3>
+<p>"for pioneering contributions to the development of neutron scattering techniques for studies of condensed matter"</p><h6><a href="/nobel_prizes/physics/laureates/1994/brockhouse-facts.html">Bertram N. Brockhouse</a></h6>
+<p>"for the development of neutron spectroscopy"</p>
+<div class="by_year_clear"></div>
+		<h6><a href="/nobel_prizes/physics/laureates/1994/shull-facts.html">Clifford G. Shull</a></h6>
+<p>"for the development of the neutron diffraction technique"</p>
+<div class="by_year_clear"></div>
+		</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1993/">The Nobel Prize in Physics 1993</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1993/hulse-facts.html">Russell A. Hulse</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1993/taylor-facts.html">Joseph H. Taylor Jr.</a></h6>
+<p>"for the discovery of a new type of pulsar, a discovery that has opened up new possibilities for the study of gravitation"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1992/">The Nobel Prize in Physics 1992</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1992/charpak-facts.html">Georges Charpak</a></h6>
+<p>"for his invention and development of particle detectors, in particular the multiwire proportional chamber"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1991/">The Nobel Prize in Physics 1991</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1991/gennes-facts.html">Pierre-Gilles de Gennes</a></h6>
+<p>"for discovering that methods developed for studying order phenomena in simple systems can be generalized to more complex forms of matter, in particular to liquid crystals and polymers"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1990/">The Nobel Prize in Physics 1990</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1990/friedman-facts.html">Jerome I. Friedman</a>, <a href="/nobel_prizes/physics/laureates/1990/kendall-facts.html">Henry W. Kendall</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1990/taylor-facts.html">Richard E. Taylor</a></h6>
+<p>"for their pioneering investigations concerning deep inelastic scattering of electrons on protons and bound neutrons, which have been of essential importance for the development of the quark model in particle physics"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1989/">The Nobel Prize in Physics 1989</a></h3>
+<h6><a href="/nobel_prizes/physics/laureates/1989/ramsey-facts.html">Norman F. Ramsey</a></h6>
+<p>"for the invention of the separated oscillatory fields method and its use in the hydrogen maser and other atomic clocks"</p>
+<h6><a href="/nobel_prizes/physics/laureates/1989/dehmelt-facts.html">Hans G. Dehmelt</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1989/paul-facts.html">Wolfgang Paul</a></h6>
+<p>"for the development of the ion trap technique"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1988/">The Nobel Prize in Physics 1988</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1988/lederman-facts.html">Leon M. Lederman</a>, <a href="/nobel_prizes/physics/laureates/1988/schwartz-facts.html">Melvin Schwartz</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1988/steinberger-facts.html">Jack Steinberger</a></h6>
+<p>"for the neutrino beam method and the demonstration of the doublet structure of the leptons through the discovery of the muon neutrino"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1987/">The Nobel Prize in Physics 1987</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1987/bednorz-facts.html">J. Georg Bednorz</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1987/muller-facts.html">K. Alexander M&uuml;ller</a></h6>
+<p>"for their important break-through in the discovery of superconductivity in ceramic materials"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1986/">The Nobel Prize in Physics 1986</a></h3>
+<h6><a href="/nobel_prizes/physics/laureates/1986/ruska-facts.html">Ernst Ruska</a></h6>
+<p>"for his fundamental work in electron optics, and for the design of the first electron microscope"</p>
+<h6><a href="/nobel_prizes/physics/laureates/1986/binnig-facts.html">Gerd Binnig</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1986/rohrer-facts.html">Heinrich Rohrer</a></h6>
+<p>"for their design of the scanning tunneling microscope"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1985/">The Nobel Prize in Physics 1985</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1985/klitzing-facts.html">Klaus von Klitzing</a></h6>
+<p>"for the discovery of the quantized Hall effect"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1984/">The Nobel Prize in Physics 1984</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1984/rubbia-facts.html">Carlo Rubbia</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1984/meer-facts.html">Simon van der Meer</a></h6>
+<p>"for their decisive contributions to the large project, which led to the discovery of the field particles W and Z, communicators of weak interaction"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1983/">The Nobel Prize in Physics 1983</a></h3>
+<h6><a href="/nobel_prizes/physics/laureates/1983/chandrasekhar-facts.html">Subramanyan Chandrasekhar</a></h6>
+<p>"for his theoretical studies of the physical processes of importance to the structure and evolution of the stars"</p>
+<div class="by_year_clear"></div>
+		<h6><a href="/nobel_prizes/physics/laureates/1983/fowler-facts.html">William Alfred Fowler</a></h6>
+<p>"for his theoretical and experimental studies of the nuclear reactions of importance in the formation of the chemical elements in the universe"</p>
+<div class="by_year_clear"></div>
+		</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1982/">The Nobel Prize in Physics 1982</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1982/wilson-facts.html">Kenneth G. Wilson</a></h6>
+<p>"for his theory for critical phenomena in connection with phase transitions"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1981/">The Nobel Prize in Physics 1981</a></h3>
+<h6><a href="/nobel_prizes/physics/laureates/1981/bloembergen-facts.html">Nicolaas Bloembergen</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1981/schawlow-facts.html">Arthur Leonard Schawlow</a></h6>
+<p>"for their contribution to the development of laser spectroscopy"</p>
+<h6><a href="/nobel_prizes/physics/laureates/1981/siegbahn-facts.html">Kai M. Siegbahn</a></h6>
+<p>"for his contribution to the development of high-resolution electron spectroscopy"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1980/">The Nobel Prize in Physics 1980</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1980/cronin-facts.html">James Watson Cronin</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1980/fitch-facts.html">Val Logsdon Fitch</a></h6>
+<p>"for the discovery of violations of fundamental symmetry principles in the decay of neutral K-mesons"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1979/">The Nobel Prize in Physics 1979</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1979/glashow-facts.html">Sheldon Lee Glashow</a>, <a href="/nobel_prizes/physics/laureates/1979/salam-facts.html">Abdus Salam</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1979/weinberg-facts.html">Steven Weinberg</a></h6>
+<p>"for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1978/">The Nobel Prize in Physics 1978</a></h3>
+<h6><a href="/nobel_prizes/physics/laureates/1978/kapitsa-facts.html">Pyotr Leonidovich Kapitsa</a></h6>
+<p>"for his basic inventions and discoveries in the area of low-temperature physics"</p>
+<h6><a href="/nobel_prizes/physics/laureates/1978/penzias-facts.html">Arno Allan Penzias</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1978/wilson-facts.html">Robert Woodrow Wilson</a></h6>
+<p>"for their discovery of cosmic microwave background radiation"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1977/">The Nobel Prize in Physics 1977</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1977/anderson-facts.html">Philip Warren Anderson</a>, <a href="/nobel_prizes/physics/laureates/1977/mott-facts.html">Sir Nevill Francis Mott</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1977/vleck-facts.html">John Hasbrouck van Vleck</a></h6>
+<p>"for their fundamental theoretical investigations of the electronic structure of magnetic and disordered systems"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1976/">The Nobel Prize in Physics 1976</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1976/richter-facts.html">Burton Richter</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1976/ting-facts.html">Samuel Chao Chung Ting</a></h6>
+<p>"for their pioneering work in the discovery of a heavy elementary particle of a new kind"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1975/">The Nobel Prize in Physics 1975</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1975/bohr-facts.html">Aage Niels Bohr</a>, <a href="/nobel_prizes/physics/laureates/1975/mottelson-facts.html">Ben Roy Mottelson</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1975/rainwater-facts.html">Leo James Rainwater</a></h6>
+<p>"for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1974/">The Nobel Prize in Physics 1974</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1974/ryle-facts.html">Sir Martin Ryle</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1974/hewish-facts.html">Antony Hewish</a></h6>
+<p>"for their pioneering research in radio astrophysics: Ryle for his observations and inventions, in particular of the aperture synthesis technique, and Hewish for his decisive role in the discovery of pulsars"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1973/">The Nobel Prize in Physics 1973</a></h3>
+<h6><a href="/nobel_prizes/physics/laureates/1973/esaki-facts.html">Leo Esaki</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1973/giaever-facts.html">Ivar Giaever</a></h6>
+<p>"for their experimental discoveries regarding tunneling phenomena in semiconductors and superconductors, respectively"</p>
+<h6><a href="/nobel_prizes/physics/laureates/1973/josephson-facts.html">Brian David Josephson</a></h6>
+<p>"for his theoretical predictions of the properties of a supercurrent through a tunnel barrier, in particular those phenomena which are generally known as the Josephson effects"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1972/">The Nobel Prize in Physics 1972</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1972/bardeen-facts.html">John Bardeen</a>, <a href="/nobel_prizes/physics/laureates/1972/cooper-facts.html">Leon Neil Cooper</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1972/schrieffer-facts.html">John Robert Schrieffer</a></h6>
+<p>"for their jointly developed theory of superconductivity, usually called the BCS-theory"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1971/">The Nobel Prize in Physics 1971</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1971/gabor-facts.html">Dennis Gabor</a></h6>
+<p>"for his invention and development of the holographic method"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1970/">The Nobel Prize in Physics 1970</a></h3>
+<h6><a href="/nobel_prizes/physics/laureates/1970/alfven-facts.html">Hannes Olof G&ouml;sta Alfv&eacute;n</a></h6>
+<p>"for fundamental work and discoveries in magnetohydro-dynamics with fruitful applications in different parts of plasma physics"</p>
+<div class="by_year_clear"></div>
+		<h6><a href="/nobel_prizes/physics/laureates/1970/neel-facts.html">Louis Eug&egrave;ne F&eacute;lix N&eacute;el</a></h6>
+<p>"for fundamental work and discoveries concerning antiferromagnetism and ferrimagnetism which have led to important applications in solid state physics"</p>
+<div class="by_year_clear"></div>
+		</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1969/">The Nobel Prize in Physics 1969</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1969/gell-mann-facts.html">Murray Gell-Mann</a></h6>
+<p>"for his contributions and discoveries concerning the classification of elementary particles and their interactions"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1968/">The Nobel Prize in Physics 1968</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1968/alvarez-facts.html">Luis Walter Alvarez</a></h6>
+<p>"for his decisive contributions to elementary particle physics, in particular the discovery of a large number of resonance states, made possible through his development of the technique of using hydrogen bubble chamber and data analysis"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1967/">The Nobel Prize in Physics 1967</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1967/bethe-facts.html">Hans Albrecht Bethe</a></h6>
+<p>"for his contributions to the theory of nuclear reactions, especially his discoveries concerning the energy production in stars"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1966/">The Nobel Prize in Physics 1966</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1966/kastler-facts.html">Alfred Kastler</a></h6>
+<p>"for the discovery and development of optical methods for studying Hertzian resonances in atoms"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1965/">The Nobel Prize in Physics 1965</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1965/tomonaga-facts.html">Sin-Itiro Tomonaga</a>, <a href="/nobel_prizes/physics/laureates/1965/schwinger-facts.html">Julian Schwinger</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1965/feynman-facts.html">Richard P. Feynman</a></h6>
+<p>"for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1964/">The Nobel Prize in Physics 1964</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1964/townes-facts.html">Charles Hard Townes</a>, <a href="/nobel_prizes/physics/laureates/1964/basov-facts.html">Nicolay Gennadiyevich Basov</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1964/prokhorov-facts.html">Aleksandr Mikhailovich Prokhorov</a></h6>
+<p>"for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1963/">The Nobel Prize in Physics 1963</a></h3>
+<h6><a href="/nobel_prizes/physics/laureates/1963/wigner-facts.html">Eugene Paul Wigner</a></h6>
+<p>"for his contributions to the theory of the atomic nucleus and the elementary particles, particularly through the discovery and application of fundamental symmetry principles"</p>
+<h6><a href="/nobel_prizes/physics/laureates/1963/mayer-facts.html">Maria Goeppert Mayer</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1963/jensen-facts.html">J. Hans D. Jensen</a></h6>
+<p>"for their discoveries concerning nuclear shell structure"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1962/">The Nobel Prize in Physics 1962</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1962/landau-facts.html">Lev Davidovich Landau</a></h6>
+<p>"for his pioneering theories for condensed matter, especially liquid helium"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1961/">The Nobel Prize in Physics 1961</a></h3>
+<h6><a href="/nobel_prizes/physics/laureates/1961/hofstadter-facts.html">Robert Hofstadter</a></h6>
+<p>"for his pioneering studies of electron scattering in atomic nuclei and for his thereby achieved discoveries concerning the structure of the nucleons"</p>
+<div class="by_year_clear"></div>
+		<h6><a href="/nobel_prizes/physics/laureates/1961/mossbauer-facts.html">Rudolf Ludwig M&ouml;ssbauer</a></h6>
+<p>"for his researches concerning the resonance absorption of gamma radiation and his discovery in this connection of the effect which bears his name"</p>
+<div class="by_year_clear"></div>
+		</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1960/">The Nobel Prize in Physics 1960</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1960/glaser-facts.html">Donald Arthur Glaser</a></h6>
+<p>"for the invention of the bubble chamber"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1959/">The Nobel Prize in Physics 1959</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1959/segre-facts.html">Emilio Gino Segr&egrave;</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1959/chamberlain-facts.html">Owen Chamberlain</a></h6>
+<p>"for their discovery of the antiproton"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1958/">The Nobel Prize in Physics 1958</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1958/cerenkov-facts.html">Pavel Alekseyevich Cherenkov</a>, <a href="/nobel_prizes/physics/laureates/1958/frank-facts.html">Il&acute;ja Mikhailovich Frank</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1958/tamm-facts.html">Igor Yevgenyevich Tamm</a></h6>
+<p>"for the discovery and the interpretation of the Cherenkov effect"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1957/">The Nobel Prize in Physics 1957</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1957/yang-facts.html">Chen Ning Yang</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1957/lee-facts.html">Tsung-Dao (T.D.) Lee</a></h6>
+<p>"for their penetrating investigation of the so-called parity laws which has led to important discoveries regarding the elementary particles"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1956/">The Nobel Prize in Physics 1956</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1956/shockley-facts.html">William Bradford Shockley</a>, <a href="/nobel_prizes/physics/laureates/1956/bardeen-facts.html">John Bardeen</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1956/brattain-facts.html">Walter Houser Brattain</a></h6>
+<p>"for their researches on semiconductors and their discovery of the transistor effect"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1955/">The Nobel Prize in Physics 1955</a></h3>
+<h6><a href="/nobel_prizes/physics/laureates/1955/lamb-facts.html">Willis Eugene Lamb</a></h6>
+<p>"for his discoveries concerning the fine structure of the hydrogen spectrum"</p>
+<div class="by_year_clear"></div>
+		<h6><a href="/nobel_prizes/physics/laureates/1955/kusch-facts.html">Polykarp Kusch</a></h6>
+<p>"for his precision determination of the magnetic moment of the electron"</p>
+<div class="by_year_clear"></div>
+		</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1954/">The Nobel Prize in Physics 1954</a></h3>
+<h6><a href="/nobel_prizes/physics/laureates/1954/born-facts.html">Max Born</a></h6>
+<p>"for his fundamental research in quantum mechanics, especially for his statistical interpretation of the wavefunction"</p>
+<div class="by_year_clear"></div>
+		<h6><a href="/nobel_prizes/physics/laureates/1954/bothe-facts.html">Walther Bothe</a></h6>
+<p>"for the coincidence method and his discoveries made therewith"</p>
+<div class="by_year_clear"></div>
+		</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1953/">The Nobel Prize in Physics 1953</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1953/zernike-facts.html">Frits (Frederik) Zernike</a></h6>
+<p>"for his demonstration of the phase contrast method, especially for his invention of the phase contrast microscope"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1952/">The Nobel Prize in Physics 1952</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1952/bloch-facts.html">Felix Bloch</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1952/purcell-facts.html">Edward Mills Purcell</a></h6>
+<p>"for their development of new methods for nuclear magnetic precision measurements and discoveries in connection therewith"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1951/">The Nobel Prize in Physics 1951</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1951/cockcroft-facts.html">Sir John Douglas Cockcroft</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1951/walton-facts.html">Ernest Thomas Sinton Walton</a></h6>
+<p>"for their pioneer work on the transmutation of atomic nuclei by artificially accelerated atomic particles"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1950/">The Nobel Prize in Physics 1950</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1950/powell-facts.html">Cecil Frank Powell</a></h6>
+<p>"for his development of the photographic method of studying nuclear processes and his discoveries regarding mesons made with this method"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1949/">The Nobel Prize in Physics 1949</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1949/yukawa-facts.html">Hideki Yukawa</a></h6>
+<p>"for his prediction of the existence of mesons on the basis of theoretical work on nuclear forces"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1948/">The Nobel Prize in Physics 1948</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1948/blackett-facts.html">Patrick Maynard Stuart Blackett</a></h6>
+<p>"for his development of the Wilson cloud chamber method, and his discoveries therewith in the fields of nuclear physics and cosmic radiation"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1947/">The Nobel Prize in Physics 1947</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1947/appleton-facts.html">Sir Edward Victor Appleton</a></h6>
+<p>"for his investigations of the physics of the upper atmosphere especially for the discovery of the so-called Appleton layer"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1946/">The Nobel Prize in Physics 1946</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1946/bridgman-facts.html">Percy Williams Bridgman</a></h6>
+<p>"for the invention of an apparatus to produce extremely high pressures, and for the discoveries he made therewith in the field of high pressure physics"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1945/">The Nobel Prize in Physics 1945</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1945/pauli-facts.html">Wolfgang Pauli</a></h6>
+<p>"for the discovery of the Exclusion Principle, also called the Pauli Principle"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1944/">The Nobel Prize in Physics 1944</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1944/rabi-facts.html">Isidor Isaac Rabi</a></h6>
+<p>"for his resonance method for recording the magnetic properties of atomic nuclei"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1943/">The Nobel Prize in Physics 1943</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1943/stern-facts.html">Otto Stern</a></h6>
+<p>"for his contribution to the development of the molecular ray method and his discovery of the magnetic moment of the proton"</p>
+</div>
+<div class="by_year">
+		<h3><a href="/nobel_prizes/physics/laureates/1942/">The Nobel Prize in Physics 1942</a></h3>
+<p>No Nobel Prize was awarded this year. The prize money was with 1/3 allocated to the Main Fund and with 2/3 to the Special Fund of this prize section.</p>
+</div>
+<div class="by_year">
+		<h3><a href="/nobel_prizes/physics/laureates/1941/">The Nobel Prize in Physics 1941</a></h3>
+<p>No Nobel Prize was awarded this year. The prize money was with 1/3 allocated to the Main Fund and with 2/3 to the Special Fund of this prize section.</p>
+</div>
+<div class="by_year">
+		<h3><a href="/nobel_prizes/physics/laureates/1940/">The Nobel Prize in Physics 1940</a></h3>
+<p>No Nobel Prize was awarded this year. The prize money was with 1/3 allocated to the Main Fund and with 2/3 to the Special Fund of this prize section.</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1939/">The Nobel Prize in Physics 1939</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1939/lawrence-facts.html">Ernest Orlando Lawrence</a></h6>
+<p>"for the invention and development of the cyclotron and for results obtained with it, especially with regard to artificial radioactive elements"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1938/">The Nobel Prize in Physics 1938</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1938/fermi-facts.html">Enrico Fermi</a></h6>
+<p>"for his demonstrations of the existence of new radioactive elements produced by neutron irradiation, and for his related discovery of nuclear reactions brought about by slow neutrons"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1937/">The Nobel Prize in Physics 1937</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1937/davisson-facts.html">Clinton Joseph Davisson</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1937/thomson-facts.html">George Paget Thomson</a></h6>
+<p>"for their experimental discovery of the diffraction of electrons by crystals"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1936/">The Nobel Prize in Physics 1936</a></h3>
+<h6><a href="/nobel_prizes/physics/laureates/1936/hess-facts.html">Victor Franz Hess</a></h6>
+<p>"for his discovery of cosmic radiation"</p>
+<div class="by_year_clear"></div>
+		<h6><a href="/nobel_prizes/physics/laureates/1936/anderson-facts.html">Carl David Anderson</a></h6>
+<p>"for his discovery of the positron"</p>
+<div class="by_year_clear"></div>
+		</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1935/">The Nobel Prize in Physics 1935</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1935/chadwick-facts.html">James Chadwick</a></h6>
+<p>"for the discovery of the neutron"</p>
+</div>
+<div class="by_year">
+		<h3><a href="/nobel_prizes/physics/laureates/1934/">The Nobel Prize in Physics 1934</a></h3>
+<p>No Nobel Prize was awarded this year. The prize money was with 1/3 allocated to the Main Fund and with 2/3 to the Special Fund of this prize section.</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1933/">The Nobel Prize in Physics 1933</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1933/schrodinger-facts.html">Erwin Schr&ouml;dinger</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1933/dirac-facts.html">Paul Adrien Maurice Dirac</a></h6>
+<p>"for the discovery of new productive forms of atomic theory"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1932/">The Nobel Prize in Physics 1932</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1932/heisenberg-facts.html">Werner Karl Heisenberg</a></h6>
+<p>"for the creation of quantum mechanics, the application of which has, inter alia, led to the discovery of the allotropic forms of hydrogen"</p>
+</div>
+<div class="by_year">
+		<h3><a href="/nobel_prizes/physics/laureates/1931/">The Nobel Prize in Physics 1931</a></h3>
+<p>No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1930/">The Nobel Prize in Physics 1930</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1930/raman-facts.html">Sir Chandrasekhara Venkata Raman</a></h6>
+<p>"for his work on the scattering of light and for the discovery of the effect named after him"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1929/">The Nobel Prize in Physics 1929</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1929/broglie-facts.html">Prince Louis-Victor Pierre Raymond de Broglie</a></h6>
+<p>"for his discovery of the wave nature of electrons"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1928/">The Nobel Prize in Physics 1928</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1928/richardson-facts.html">Owen Willans Richardson</a></h6>
+<p>"for his work on the thermionic phenomenon and especially for the discovery of the law named after him"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1927/">The Nobel Prize in Physics 1927</a></h3>
+<h6><a href="/nobel_prizes/physics/laureates/1927/compton-facts.html">Arthur Holly Compton</a></h6>
+<p>"for his discovery of the effect named after him"</p>
+<div class="by_year_clear"></div>
+		<h6><a href="/nobel_prizes/physics/laureates/1927/wilson-facts.html">Charles Thomson Rees Wilson</a></h6>
+<p>"for his method of making the paths of electrically charged particles visible by condensation of vapour"</p>
+<div class="by_year_clear"></div>
+		</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1926/">The Nobel Prize in Physics 1926</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1926/perrin-facts.html">Jean Baptiste Perrin</a></h6>
+<p>"for his work on the discontinuous structure of matter, and especially for his discovery of sedimentation equilibrium"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1925/">The Nobel Prize in Physics 1925</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1925/franck-facts.html">James Franck</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1925/hertz-facts.html">Gustav Ludwig Hertz</a></h6>
+<p>"for their discovery of the laws governing the impact of an electron upon an atom"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1924/">The Nobel Prize in Physics 1924</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1924/siegbahn-facts.html">Karl Manne Georg Siegbahn</a></h6>
+<p>"for his discoveries and research in the field of X-ray spectroscopy"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1923/">The Nobel Prize in Physics 1923</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1923/millikan-facts.html">Robert Andrews Millikan</a></h6>
+<p>"for his work on the elementary charge of electricity and on the photoelectric effect"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1922/">The Nobel Prize in Physics 1922</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1922/bohr-facts.html">Niels Henrik David Bohr</a></h6>
+<p>"for his services in the investigation of the structure of atoms and of the radiation emanating from them"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1921/">The Nobel Prize in Physics 1921</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1921/einstein-facts.html">Albert Einstein</a></h6>
+<p>"for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1920/">The Nobel Prize in Physics 1920</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1920/guillaume-facts.html">Charles Edouard Guillaume</a></h6>
+<p>"in recognition of the service he has rendered to precision measurements in Physics by his discovery of anomalies in nickel steel alloys"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1919/">The Nobel Prize in Physics 1919</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1919/stark-facts.html">Johannes Stark</a></h6>
+<p>"for his discovery of the Doppler effect in canal rays and the splitting of spectral lines in electric fields"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1918/">The Nobel Prize in Physics 1918</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1918/planck-facts.html">Max Karl Ernst Ludwig Planck</a></h6>
+<p>"in recognition of the services he rendered to the advancement of Physics by his discovery of energy quanta"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1917/">The Nobel Prize in Physics 1917</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1917/barkla-facts.html">Charles Glover Barkla</a></h6>
+<p>"for his discovery of the characteristic R&ouml;ntgen radiation of the elements"</p>
+</div>
+<div class="by_year">
+		<h3><a href="/nobel_prizes/physics/laureates/1916/">The Nobel Prize in Physics 1916</a></h3>
+<p>No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1915/">The Nobel Prize in Physics 1915</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1915/wh-bragg-facts.html">Sir William Henry Bragg</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1915/wl-bragg-facts.html">William Lawrence Bragg</a></h6>
+<p>"for their services in the analysis of crystal structure by means of X-rays"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1914/">The Nobel Prize in Physics 1914</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1914/laue-facts.html">Max von Laue</a></h6>
+<p>"for his discovery of the diffraction of X-rays by crystals"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1913/">The Nobel Prize in Physics 1913</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1913/onnes-facts.html">Heike Kamerlingh Onnes</a></h6>
+<p>"for his investigations on the properties of matter at low temperatures which led, inter alia, to the production of liquid helium"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1912/">The Nobel Prize in Physics 1912</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1912/dalen-facts.html">Nils Gustaf Dal&eacute;n</a></h6>
+<p>"for his invention of automatic regulators for use in conjunction with gas accumulators for illuminating lighthouses and buoys"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1911/">The Nobel Prize in Physics 1911</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1911/wien-facts.html">Wilhelm Wien</a></h6>
+<p>"for his discoveries regarding the laws governing the radiation of heat"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1910/">The Nobel Prize in Physics 1910</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1910/waals-facts.html">Johannes Diderik van der Waals</a></h6>
+<p>"for his work on the equation of state for gases and liquids"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1909/">The Nobel Prize in Physics 1909</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1909/marconi-facts.html">Guglielmo Marconi</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1909/braun-facts.html">Karl Ferdinand Braun</a></h6>
+<p>"in recognition of their contributions to the development of wireless telegraphy"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1908/">The Nobel Prize in Physics 1908</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1908/lippmann-facts.html">Gabriel Lippmann</a></h6>
+<p>"for his method of reproducing colours photographically based on the phenomenon of interference"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1907/">The Nobel Prize in Physics 1907</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1907/michelson-facts.html">Albert Abraham Michelson</a></h6>
+<p>"for his optical precision instruments and the spectroscopic and metrological investigations carried out with their aid"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1906/">The Nobel Prize in Physics 1906</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1906/thomson-facts.html">Joseph John Thomson</a></h6>
+<p>"in recognition of the great merits of his theoretical and experimental investigations on the conduction of electricity by gases"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1905/">The Nobel Prize in Physics 1905</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1905/lenard-facts.html">Philipp Eduard Anton von Lenard</a></h6>
+<p>"for his work on cathode rays"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1904/">The Nobel Prize in Physics 1904</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1904/strutt-facts.html">Lord Rayleigh (John William Strutt)</a></h6>
+<p>"for his investigations of the densities of the most important gases and for his discovery of argon in connection with these studies"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1903/">The Nobel Prize in Physics 1903</a></h3>
+<h6><a href="/nobel_prizes/physics/laureates/1903/becquerel-facts.html">Antoine Henri Becquerel</a></h6>
+<p>"in recognition of the extraordinary services he has rendered by his discovery of spontaneous radioactivity"</p>
+<h6><a href="/nobel_prizes/physics/laureates/1903/pierre-curie-facts.html">Pierre Curie</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1903/marie-curie-facts.html">Marie Curie, n&eacute;e Sklodowska</a></h6>
+<p>"in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1902/">The Nobel Prize in Physics 1902</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1902/lorentz-facts.html">Hendrik Antoon Lorentz</a> <span style='font-weight: normal;'>and</span> <a href="/nobel_prizes/physics/laureates/1902/zeeman-facts.html">Pieter Zeeman</a></h6>
+<p>"in recognition of the extraordinary service they rendered by their researches into the influence of magnetism upon radiation phenomena"</p>
+</div>
+<div class="by_year">
+		<h3 style="margin: 5px 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1901/">The Nobel Prize in Physics 1901</a></h3>
+<h6 style="margin: 0 0 5px 0; padding: 0;"><a href="/nobel_prizes/physics/laureates/1901/rontgen-facts.html">Wilhelm Conrad R&ouml;ntgen</a></h6>
+<p>"in recognition of the extraordinary services he has rendered by the discovery of the remarkable rays subsequently named after him"</p>
+</div>
+
+
+     
+<!-- End Main Area  -->
+
+<div style="clear:both"></div>
+
+<!--eri-no-index-->
+
+
+<div style="float: left; width: 100%; margin: 20px 0 20px 0; padding: 5px 0 5px 0; border-top: 1px solid #c0c0c0; border-bottom: 1px solid #ccc;">
+    <!-- AddThis Button BEGIN -->
+    <div style="display: inline; float: left;"><h5 style="margin-right: 5px; font-size: 14px; font-weight: normal; font-style: italic; display: inline;">Share this:</h5></div>
+    <div style="display: inline; float: left;" class="addthis_toolbox addthis_default_style addthis_16x16_style">
+    <a class="addthis_button_facebook"></a>
+    <a class="addthis_button_google_plusone_share"></a>
+    <a class="addthis_button_twitter"></a>
+    <a class="addthis_button_compact"></a><a class="addthis_counter addthis_bubble_style"></a>
+    <a class="addthis_button_email"></a>
+    </div>
+    <script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script>
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=nobelprize"></script>
+    <!-- AddThis Button END -->
+</div>
+
+
+
+<div style="clear:both"></div>
+<div class="mla_cite"> <span class="row1">To cite this page</span><br><span class="row2">MLA style: "All Nobel Prizes in Physics". <i>Nobelprize.org.</i> Nobel Media AB 2014. Web. 3 Apr 2015. &lt;http://www.nobelprize.org/nobel_prizes/physics/laureates/&gt; </span> </div>
+
+
+<h2 style="margin-bottom: 15px;">Recommended:</h2>
+<div class="row">
+<div class="large-12 columns">
+<ul data-orbit style="background-color: #fff;" data-options="bullets:false;
+																timer:false;
+                                                                slide_number:false;">
+    	<li data-orbit-slide="group1">
+        	<div class="row">
+            	<div class="large-1 columns">
+                </div>
+                <div class="large-10 large-centered columns" style="padding: 0;">
+                	<div class="row">
+	                            <div class="large-4 columns" style="">
+                                                    <a href="/educational/physics/laser/"><img style="margin-bottom: 5px; padding-bottom: 0;" src="/images/recommend/educational/physics/laser-challenge-game.jpg"></a>
+                            <p style="line-height:1.2em; font-size: 1em; margin: 0 0 3px 0; padding: 0;"><a style="font-weight: bold; font-size: inherit;" href="/educational/physics/laser/">Play the Laser Challenge Game</a></p>
+                            <p style="line-height:1.2em; font-size: 1em; margin: 0;">Your mission is to arrange an amazing laser party!</p>
+                        </div>
+                                <div class="large-4 columns" style="">
+                                                    <a href="/nobel_prizes/themes/physics/karlsson/index.html"><img style="margin-bottom: 5px; padding-bottom: 0;" src="/images/recommend/physics/physics-overview.jpg"></a>
+                            <p style="line-height:1.2em; font-size: 1em; margin: 0 0 3px 0; padding: 0;"><a style="font-weight: bold; font-size: inherit;" href="/nobel_prizes/themes/physics/karlsson/index.html">The Nobel Prize in Physics 1901-2000</a></p>
+                            <p style="line-height:1.2em; font-size: 1em; margin: 0;">Read more about the Nobel Prize in Physics.</p>
+                        </div>
+                            	<div class="large-4 columns" style="">
+                                                    <a href="/nobel_prizes/facts/physics/index.html"><img style="margin-bottom: 5px; padding-bottom: 0;" src="/images/recommend/physics/physics-short-facts.jpg"></a>
+                            <p style="line-height:1.2em; font-size: 1em; margin: 0 0 3px 0; padding: 0;"><a style="font-weight: bold; font-size: inherit;" href="/nobel_prizes/facts/physics/index.html">Facts on the Nobel Prize in Physics</a></p>
+                            <p style="line-height:1.2em; font-size: 1em; margin: 0;">All you want to know about the Nobel Prize in Physics!</p>
+                        </div>
+        			</div>
+            </div>
+            <div class="large-1 columns">
+            </div>
+        </div>
+    </li>
+	</ul>
+</div>
+</div>
+
+
+
+
+    </div>
+  </div>
+</div>
+
+    <!-- /middle column -->
+    
+    <!-- Right column -->
+	<div id="nobel-right-col" class="large-3 columns hide-for-small" style="margin-top: 10px; padding-top: 15px; padding-bottom: 15px; background-color: #f0f0f0; border-left: 1px solid #d3d3d3;">
+<div class="row">
+<div class="large-12 columns">
+<a href="http://www.nobelprize.org/nobel_prizes/lists/year/index.html?year=2014&images=yes"><img src="/images/right-column/2014-nobel-laureates.jpg"></a>
+</div>
+</div><div style="background-color: #FFFFFF; border-top: 1px solid #D7D5D5; height: 1px; margin-top: 10px; margin-bottom: 10px; "></div>
+<div class="row">
+<div class="large-12 columns">
+<a href="http://www.nobelprize.org/podcast/index.html"><img src="/images/right-column/explore-the-nobel-prize-talks-podcast.jpg"></a>
+</div>
+</div>
+<div style="background-color: #FFFFFF; border-top: 1px solid #D7D5D5; height: 1px; margin-top: 10px; margin-bottom: 10px; "></div>
+
+<div class="row">
+<div class="large-12 columns">
+<a href="http://www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/newsletter/"><img src="/images/right-column/monthly05.jpg"></a>
+</div>
+</div><div style="background-color: #FFFFFF; border-top: 1px solid #D7D5D5; height: 1px; margin-top: 10px; margin-bottom: 10px; "></div>
+
+
+    </div>
+    
+    <div class="small-12 columns show-for-small" style="background-color: #fff;">
+    	<div class="row">
+<div class="large-12 columns">
+<a href="http://www.nobelprize.org/nobel_prizes/lists/year/index.html?year=2014&images=yes"><img src="/images/right-column/2014-nobel-laureates.jpg"></a>
+</div>
+</div><div style="background-color: #FFFFFF; border-top: 1px solid #D7D5D5; height: 1px; margin-top: 10px; margin-bottom: 10px; "></div>
+<div class="row">
+<div class="large-12 columns">
+<a href="http://www.nobelprize.org/podcast/index.html"><img src="/images/right-column/explore-the-nobel-prize-talks-podcast.jpg"></a>
+</div>
+</div>
+<div style="background-color: #FFFFFF; border-top: 1px solid #D7D5D5; height: 1px; margin-top: 10px; margin-bottom: 10px; "></div>
+
+<div class="row">
+<div class="large-12 columns">
+<a href="http://www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/newsletter/"><img src="/images/right-column/monthly05.jpg"></a>
+</div>
+</div><div style="background-color: #FFFFFF; border-top: 1px solid #D7D5D5; height: 1px; margin-top: 10px; margin-bottom: 10px; "></div>
+    </div>
+    <!-- /right column -->
+</div>
+
+<!-- /content area -->
+
+
+<!-- Small footer -->
+<div class="row show-for-small" id="small-footer-container" style="background-color: #111111;">
+	<div class="large-12 columns">
+    	<h3 style="margin-top: 15px; margin-bottom: 0; padding-bottom: 0; color: #eeeeee; font-weight: bold; font-size: 16px; text-decoration: underline;">Contact</h3>
+        <ul style="color: #ffffff;" class="small-footer-list">
+        	<li><a href="/contact">E-mail us</a></li>
+        </ul>
+    	<h3 style="margin-top: 15px; margin-bottom: 0; padding-bottom: 0; color: #eeeeee; font-weight: bold; font-size: 16px; text-decoration: underline;">Press</h3>
+        <ul style="color: #ffffff;" class="small-footer-list">
+            <li><a href="/press/">Press Releases</a></li>
+            <li><a href="/press/nobelfoundation/">Newsroom - Nobel Foundation</a></li>
+            <li><a href="/press/nobelmedia/">Newsroom - Nobel Media</a></li>
+        </ul>
+    	<h3 style="margin-top: 15px; margin-bottom: 0; padding-bottom: 0; color: #eeeeee; font-weight: bold; font-size: 16px; text-decoration: underline;">Sitemap</h3>
+        <ul style="color: #ffffff;" class="small-footer-list">
+            <li><a href="/az_index.html">A-Z Index</a></li>
+        </ul>
+    	<h3 style="margin-top: 15px; margin-bottom: 0; padding-bottom: 0; color: #eeeeee; font-weight: bold; font-size: 16px; text-decoration: underline;">FAQ</h3>
+        <ul style="color: #ffffff;" class="small-footer-list">
+            <li><a href="/faq">Frequently Asked Questions</a></li>
+        </ul>
+    	<h3 style="margin-top: 15px; margin-bottom: 0; padding-bottom: 0; color: #eeeeee; font-weight: bold; font-size: 16px; text-decoration: underline;">Terms</h3>
+        <ul style="color: #ffffff;" class="small-footer-list">
+        	<li><a href="/nobel_organizations/nobelmedia/nobelprize_org/terms_use.html">Terms of Use</a></li>
+            <li><a href="/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html">Privacy Policy</a></li>
+            <li><a href="/nobel_organizations/nobelmedia/nobelprize_org/tech_support/">Technical Support</a></li>
+            <li><a href="/nobel_organizations/nobelmedia/nobelprize_org/developer/">For Developers</a></li>
+            <li><a href="/nobel_organizations/nobelmedia/nobelprize_org/copyright/">Copyright</a></li>
+        </ul>
+    	<h3 style="margin-top: 15px; margin-bottom: 0; padding-bottom: 0; color: #eeeeee; font-weight: bold; font-size: 16px; text-decoration: underline;">Follow</h3>
+        <ul style="color: #ffffff;" class="small-footer-list">
+        	<li><a href="https://www.facebook.com/Nobelprize.org">Facebook</a></li>
+            <li><a href="https://plus.google.com/+NobelPrize/posts">Google+</a></li>
+            <li><a href="https://twitter.com/NobelPrize">Twitter</a></li>
+            <li><a href="http://www.youtube.com/thenobelprize">YouTube</a></li>
+            <li><a href="http://www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/newsletter/">Nobelprize.org Monthly</a></li>
+            <li><a href="/nobel_organizations/nobelmedia/channels/app/index.html">Nobel Prize App</a></li>
+        </ul>
+    </div>
+</div>
+<!-- /small footer -->
+
+<!-- Big footer FOUNDATION 5 -->
+<div class="hide-for-small" id="footer-container" style="width: 100%; position: fixed; bottom: -172px; z-index: 999999;">
+    <div style="width: 100%; background-color: #c3d0e1; border-bottom: 1px solid #fff;">
+        <div class="row">
+            <div class="medium-5 columns" style="padding-top: 9px; padding-bottom: 13px;">
+            	<span style="border-radius: 3px; padding: 0 10px 2px 10px; background-color: #fff;"><img id="big-footer-link" src="/images/foundation/arrow-right.png" style="display: inline;"> <a class="footer-top-link" href="#" id="footer-top-link-first" style="font-weight: normal; margin: 0; padding: 0;">Contact&nbsp;&nbsp;|&nbsp;&nbsp;Press&nbsp;&nbsp;|&nbsp;&nbsp;Sitemap&nbsp;&nbsp;|&nbsp;&nbsp;FAQ&nbsp;&nbsp|&nbsp;&nbsp;Terms</a></span>
+            </div>
+            <div class="medium-3 columns" style="text-align: right;">
+            	<p style="color: #888; margin: 6px 0 0 0; padding: 0;">Copyright &copy; Nobel Media AB 2015</p>
+            </div>
+            <div class="medium-4 columns">
+                <div id="footer-follow-us-text-space" style="float: left; width: 62%; text-align: right; padding-top: 5px;">
+                    <h2 style="font-weight: normal; margin: 0; margin-top: -20px !important padding: 0; color: #fff; font-style: italic; display: inline; margin-right: 10px;">Follow us:</h2>
+                </div>
+                <div id="footer-follow-us-icon-space" style="float: left; width: 38%; padding-top: 5px; text-align: right;">
+                    <a href="https://www.facebook.com/Nobelprize.org"><img style="display: inline;" src="/images/icons/fb-footer-big.png">
+                    <a href="https://plus.google.com/+NobelPrize/posts"><img style="display: inline;" src="/images/icons/g-footer-big.png"></a>
+                    <a href="https://twitter.com/NobelPrize"><img style="display: inline;" src="/images/icons/tw-footer-big.png"></a>
+                    <a href="http://www.youtube.com/thenobelprize"><img style="display: inline;" src="/images/icons/yt-footer-big.png"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div style="width: 100%; background-color: #466c99;">
+    	<div class="row">
+        	<div class="medium-3 columns" style="padding-left: 0;">
+            	<div class="row">
+                	<div class="large-12 columns">
+                        <ul style="list-style-type: none;">
+                            <li class="footer-list-headline">Contact</li>
+                            <li><a style="color: #fff;" class="footer-link" href="/contact">E-mail Us</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
+                	<div class="large-12 columns">
+                        <ul style="list-style-type: none;">
+                            <li class="footer-list-headline">Press</li>
+                            <li><a style="color: #fff;" class="footer-link" href="/press/">Press Releases</a></li>
+                            <li><a style="color: #fff;" class="footer-link" href="/press/nobelfoundation/">Newsroom - Nobel Foundation</a></li>
+                            <li><a style="color: #fff;" class="footer-link" href="/press/nobelmedia/">Newsroom - Nobel Media</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="medium-3 columns" style="padding-left: 0;">
+            	<div class="row">
+                	<div class="large-12 columns">
+                    	<ul style="list-style-type: none;">
+                        	<li class="footer-list-headline">Sitemap</li>
+                        	<li><a style="color: #fff;" class="footer-link" href="/az_index.html/">A-Z Index</a></li>
+                        </ul>
+                	</div>
+                </div>
+                <div class="row">
+                	<div class="large-12 columns">
+                        <ul style="list-style-type: none;">
+                            <li class="footer-list-headline">FAQ</li>
+                            <li><a href="/faq" style="color: #fff;" class="footer-link" style="cursor: pointer;">Frequently Asked Questions</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="medium-3 columns" style="padding-left: 0;">
+                <div class="row">
+                	<div class="large-12 columns">
+                    	<ul style="list-style-type: none;">
+                        	<li class="footer-list-headline">Terms</li>
+                        	<li><a style="color: #fff;" class="footer-link" href="/nobel_organizations/nobelmedia/nobelprize_org/terms_use.html">Terms of Use</a></li>
+                            <li><a style="color: #fff;" class="footer-link" href="/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html">Privacy Policy</a></li>
+                        	<li><a style="color: #fff;" class="footer-link" href="/nobel_organizations/nobelmedia/nobelprize_org/tech_support/">Technical Support</a></li>
+                        	<li><a style="color: #fff;" class="footer-link" href="/nobel_organizations/nobelmedia/nobelprize_org/developer/">For Developers</a></li>
+                        	<li><a style="color: #fff;" class="footer-link" href="/nobel_organizations/nobelmedia/nobelprize_org/copyright/">Copyright</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        	<div class="medium-3 columns" style="padding-left: 0;">
+            	<h2 class="footer-list-headline" style="margin-bottom: 8px;">Follow us:</h2>
+                <div style="float: left; width: 100%; margin-bottom: 4px;">
+            	<div style="float: left; width: 11%;"><img style="padding-top: 2px;" src="/images/icons/facebook-footer.png"></div>
+                <div style="float: left; width: 89%;"><a style="color: #fff;" href="https://www.facebook.com/Nobelprize.org">Facebook</a></div>
+                </div>
+                <div style="float: left; width: 100%; margin-bottom: 4px;">
+            	<div style="float: left; width: 11%;"><img style="padding-top: 2px;" src="/images/icons/googleplus-footer.png"></div>
+                <div style="float: left; width: 89%;"><a style="color: #fff;" href="https://plus.google.com/+NobelPrize/posts">Google+</a></div>
+                </div>
+                <div style="float: left; width: 100%; margin-bottom: 4px;">
+            	<div style="float: left; width: 11%;"><img style="padding-top: 2px;" src="/images/icons/twitter-footer.png"></div>
+                <div style="float: left; width: 89%;"><a style="color: #fff;" href="https://twitter.com/NobelPrize">Twitter</a></div>
+                </div>
+                <div style="float: left; width: 100%; margin-bottom: 4px;">
+            	<div style="float: left; width: 11%;"><img style="padding-top: 2px;" src="/images/icons/youtube-footer.png"></div>
+                <div style="float: left; width: 89%;"><a style="color: #fff;" href="http://www.youtube.com/thenobelprize">YouTube</a></div>
+                </div>
+                <div style="float: left; width: 100%; margin-bottom: 4px;">
+            	<div style="float: left; width: 11%;"><img style="padding-top: 2px;" src="/images/icons/monthly-footer.png"></div>
+                <div style="float: left; width: 89%;"><a style="color: #fff;" href="http://www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/newsletter/">Nobelprize.org Monthly</a></div>
+                </div>
+                <div style="float: left; width: 100%; margin-bottom: 4px;">
+            	<div style="float: left; width: 11%;"><img style="padding-top: 2px;" src="/images/icons/app-footer.png"></div>
+                <div style="float: left; width: 89%;"><a style="color: #fff;" href="http://www.nobelprize.org/nobel_organizations/nobelmedia/channels/app/index.html">Nobel Prize App</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /big footer -->
+
+
+  <script src="/prog/js/foundation5/vendor/modernizr.js"></script>
+  
+  <script src="/prog/js/foundation5/foundation/foundation.js"></script>
+  
+  <script src="/prog/js/foundation5/foundation/foundation.orbit.js"></script>
+  
+  <script src="/prog/js/foundation5/foundation/foundation.topbar.js"></script>
+
+  
+	<script>
+      $(document).foundation();
+    </script>
+  
+  
+  <script>
+  	var and_test;
+	var left_height, middle_height, right_height, highest;
+	
+	var footer_visible = false;
+	var filter_year = 2014;
+	
+	create_list_form_toggled = false;
+	create_list_form_visible = false;
+
+function toggle_create_list_form() {
+	
+	if(create_list_form_visible) {
+		
+		$('#create-list-container-yo').css('display', 'none');
+		create_list_form_visible = false;
+	}
+	else {
+		
+		$('#create-list-container-yo').css('display', 'inline');
+		create_list_form_visible = true;
+	}
+	
+	if(!create_list_form_toggled) {
+		
+		//var left_height = $('#nobel-left-col').height();
+		var left_height = $('#create-list-container-yo').height();
+		left_height = Math.round(left_height);
+		left_height += 200;
+		var middle_height = $('#nobel-middle-col').height();
+		middle_height = Math.round(middle_height);
+		var right_height = $('#nobel-right-col').height();
+		right_height = Math.round(right_height);
+			
+		// Calculate the height of the containers and make it look right
+		highest = left_height;
+		
+		if(middle_height > highest) {
+			highest = middle_height;
+		}
+		
+		if(right_height > highest) {
+			highest = right_height;
+		}
+		
+		var highest_mid = highest+20;
+		$('#nobel-left-col').height(highest);
+		$('#nobel-middle-col').height(highest_mid);
+		$('#nobel-right-col').height(highest);
+		
+		create_list_form_toggled = false;
+	}
+}
+
+$(document).ready(function() {
+
+	//checkVersion();
+	if($('#this-create-list-page').val() == 'yes') {
+		
+		$('#create-list-container-yo').css('display', 'inline');
+		
+		var left_height = $('#nobel-left-col').height();
+		var left_height = Math.round(left_height);
+		var middle_height = $('#nobel-middle-col').height();
+		var middle_height = Math.round(middle_height);
+		var right_height = $('#nobel-right-col').height();
+		var right_height = Math.round(right_height);
+		
+		if($(window).width() > 780) {
+
+			// Calculate the height of the containers and make it look right
+			highest = left_height;
+			
+			if(middle_height > highest) {
+				highest = middle_height;
+			}
+			
+			if(right_height > highest) {
+				highest = right_height;
+			}
+			
+			var highest_mid = highest+20;
+			$('#nobel-left-col').height(highest);
+			$('#nobel-middle-col').height(highest_mid);
+			$('#nobel-right-col').height(highest);
+		}
+	}
+	else {
+		
+		setTimeout(function() {
+			
+			da_url = window.location.href;
+
+			var left_height = $('#nobel-left-col').height();
+			var left_height = Math.round(left_height);
+			
+			var middle_height = $('#nobel-middle-col').height();
+			var middle_height = Math.round(middle_height);
+			
+			var right_height = $('#nobel-right-col').height();
+			var right_height = Math.round(right_height);
+			
+			if($(window).width() > 780) {
+				
+				// Calculate the height of the containers and make it look right
+				highest = left_height;
+				
+				if(middle_height > highest) {
+					highest = middle_height;
+				}
+				
+				if(right_height > highest) {
+					highest = right_height;
+				}
+				
+				var highest_mid = highest+20;
+				
+				if(da_url.match(/live.nobelprize.org/)) {
+					
+					$('#nobel-middle-col').css('min-height', highest+'px');
+					$('#nobel-right-col').css('min-height', highest+'px');
+				}
+				else {
+					
+					$('#nobel-left-col').height(highest);
+					$('#nobel-left-col').height(highest-585);
+					$('#nobel-middle-col').height(highest_mid);
+					$('#nobel-right-col').height(highest);
+				}
+				
+				//alert($('#nobel-left-col').height());
+				//alert($('#nobel-right-col').height());
+			}
+			else {
+				$('#nobel-left-col').height(left_height-700);
+			}
+		}, 1000);
+	}
+	
+	
+	/* Left sidebar filter */
+	$('#left-arrow').click(function() {
+		
+		if(filter_year > 1901) {
+			filter_year--;
+			$('#year-input').val(filter_year);
+		}
+	});
+	
+	$('#right-arrow').click(function() {
+		
+		if(filter_year < 2015) {
+			filter_year++;
+			$('#year-input').val(filter_year);
+		}
+	});
+	
+	
+	$('.footer-top-link').click(function() {
+		
+		if(!footer_visible) {
+			show_footer();
+		}
+		else {
+			hide_footer();
+		}
+	});
+	
+	$('.footer-top-link').click(function(event) {
+		event.preventDefault();
+	});
+	
+	// Left column filter dropdown
+	$('#left-col-filter-dropdown').change(function() {
+	});
+	
+	/* Goto other biography up-and-down-year */
+	var selected_goto_year = 2014;
+	selected_goto_year = $('#hidden-the-year').val();
+	var url;
+	var selected_goto_prize;
+	
+	// Dropdown
+	$('#goto-prize-change-prize').change(function() {
+		selected_goto_prize = $(this).find(":selected").val();
+		
+		if(selected_goto_prize == "economic-sciences" && selected_goto_year<1969) {
+			url = 'http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1969/';
+		}
+		else {
+			url = 'http://www.nobelprize.org';
+			url += '/nobel_prizes/'+selected_goto_prize+'/laureates/'+selected_goto_year+'/';
+		}
+			
+		location.href = url;
+	});
+	
+	// Button tap down
+	$('#goto-prize-tap-down').click(function() {
+		if(parseInt(selected_goto_year) > 1901) {
+			selected_goto_prize = $('#goto-prize-change-prize').find(":selected").val();
+			selected_goto_year--;
+			
+			if(selected_goto_prize == "economic-sciences" && selected_goto_year<1969) {
+				url = 'http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1969/';
+			}
+			else {
+				url = 'http://www.nobelprize.org';
+				url += '/nobel_prizes/'+selected_goto_prize+'/laureates/'+selected_goto_year+'/';
+			}
+			
+			location.href = url;
+		}
+	});
+	
+	// Button tap up
+	$('#goto-prize-tap-up').click(function() {
+		if(parseInt(selected_goto_year) < 2015) {
+			selected_goto_prize = $('#goto-prize-change-prize').find(":selected").val();
+			selected_goto_year++;
+			
+			if(selected_goto_prize == "economic-sciences" && selected_goto_year<1969) {
+				url = 'http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1969/';
+			}
+			else {
+				//url = 'http://www.nobelprize.org';
+				url = 'http://www.nobelprize.org';
+				url += '/nobel_prizes/'+selected_goto_prize+'/laureates/'+selected_goto_year+'/';
+			}
+			
+			location.href = url;
+		}
+	});
+	
+	$('#goto-prize-change-year').keyup(function() {
+		
+		if($(this).val().length == 4) {
+			selected_goto_year = $('#goto-prize-change-year').val();
+			selected_goto_prize = $('#goto-prize-change-prize').find(":selected").val();
+			
+			if(selected_goto_prize == "economic-sciences" && selected_goto_year<1969) {
+				url = 'http://'+www.nobelprize.org+'/nobel_prizes/economic-sciences/laureates/1969/';
+			}
+			else {
+				url = 'http://www.nobelprize.org';
+				url += '/nobel_prizes/'+selected_goto_prize+'/laureates/'+selected_goto_year+'/';
+			}
+			
+			location.href = url;
+		}
+	});
+	
+	
+	<!-- small -->
+	
+	// Dropdown
+	$('#goto-prize-change-prize-small').change(function() {
+		selected_goto_prize = $(this).find(":selected").val();
+		
+		if(selected_goto_prize == "economic-sciences" && selected_goto_year<1969) {
+			url = 'http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1969/';
+		}
+		else {
+			url = 'http://www.nobelprize.org';
+			url += '/nobel_prizes/'+selected_goto_prize+'/laureates/'+selected_goto_year+'/';
+		}
+			
+		location.href = url;
+	});
+	
+	// Button tap down
+	$('#goto-prize-tap-down-small').click(function() {
+		if(parseInt(selected_goto_year) > 1901) {
+			selected_goto_prize = $('#goto-prize-change-prize-small').find(":selected").val();
+			selected_goto_year--;
+			
+			if(selected_goto_prize == "economic-sciences" && selected_goto_year<1969) {
+				url = 'http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1969/';
+			}
+			else {
+				url = 'http://www.nobelprize.org';
+				url += '/nobel_prizes/'+selected_goto_prize+'/laureates/'+selected_goto_year+'/';
+			}
+			
+			location.href = url;
+		}
+	});
+	
+	// Button tap up
+	$('#goto-prize-tap-up-small').click(function() {
+		if(parseInt(selected_goto_year) < 2015) {
+			selected_goto_prize = $('#goto-prize-change-prize-small').find(":selected").val();
+			selected_goto_year++;
+			
+			if(selected_goto_prize == "economic-sciences" && selected_goto_year<1969) {
+				url = 'http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1969/';
+			}
+			else {
+				//url = 'http://www.nobelprize.org';
+				url = 'http://www.nobelprize.org';
+				url += '/nobel_prizes/'+selected_goto_prize+'/laureates/'+selected_goto_year+'/';
+			}
+			
+			location.href = url;
+		}
+	});
+	
+	$('#goto-prize-change-year-small').keyup(function() {
+		
+		if($(this).val().length == 4) {
+			selected_goto_year = $('#goto-prize-change-year-small').val();
+			selected_goto_prize = $('#goto-prize-change-prize-small').find(":selected").val();
+			
+			if(selected_goto_prize == "economic-sciences" && selected_goto_year<1969) {
+				url = 'http://'+www.nobelprize.org+'/nobel_prizes/economic-sciences/laureates/1969/';
+			}
+			else {
+				url = 'http://www.nobelprize.org';
+				url += '/nobel_prizes/'+selected_goto_prize+'/laureates/'+selected_goto_year+'/';
+			}
+			
+			location.href = url;
+		}
+	});
+	
+	<!-- /small -->
+});
+
+
+// Show the footer
+function show_footer() {
+
+	$('#footer-container').animate({
+		bottom: '0'
+	}, 500, function() {
+	});
+	
+	//$('#footer-top-link-first').css('background-image', 'url(/images/foundation/arrow-down.png)');
+	$('#big-footer-link').attr('src', '/images/foundation/arrow-down.png');
+	
+	footer_visible = true;
+}
+
+// Hide the footer
+function hide_footer() {
+
+	$('#footer-container').animate({
+		bottom: '-172px'
+	}, 500, function() {
+	});
+	
+	//$('#footer-top-link-first').css('background-image', 'url(/images/foundation/arrow-right.png)');
+	$('#big-footer-link').attr('src', '/images/foundation/arrow-right.png');
+	
+	footer_visible = false;
+}
+</script>
+
+
+<script>
+$(document).ready(function() {
+	
+	var el = $('.yes-filler');
+	var originalHeight = el.height();
+	
+	var properties = {
+	   height : originalHeight * 0.9
+	}
+	
+	el.pulse(properties, {duration : 1000, pulses : -1});
+	
+	
+	// Voting
+	$('.ein-poll-alt').change(function() {
+		
+		poll_stats = [];
+		poll_stats_percent = [];
+		alt_ids = [];
+		total_votes = 0;
+		num_alts = 0;
+		alt_counter = 0;
+		
+		ein_poll_id = $(this).data('pollid');
+		ein_alt_id = $(this).data('altid');
+		
+		
+		
+		el.pulse('destroy');
+		
+		$('.poll-'+ein_poll_id+'-alt').each(function() {
+			
+			$(this).attr('disabled',true);
+			alt_ids[alt_counter] = $(this).data('altid');
+			
+			alt_counter++;
+			num_alts++;
+		});
+	
+		// Lets save da vote yao
+		$.ajax({
+			type: "POST",
+			url: "http://www.nobelprize.org/prog/php/poll/api.php",
+			data: {poll_id: ein_poll_id,
+					alt_id: ein_alt_id},
+			dataType: "json",
+			beforeSend:function(){
+				//alert("sending");
+			},
+			error: function(jqXHR, textStatus, errorThrown){
+				//alert("Error: "+errorThrown);
+			},
+			success: function(data){
+				
+				$.each(data, function(index, element) {
+					
+					//self.questions[i]['id'] = element.question_id;
+					poll_stats[element.id] = [];
+					poll_stats[element.id]['votes'] = parseInt(element.votes);
+					total_votes += parseInt(element.votes);
+				});
+	
+				//# Calculate percent % stats
+				var percent_per_vote = 100/total_votes;
+				
+				var tot_percent = 0;
+				
+				for(var per_counter = 0; per_counter < num_alts; per_counter++) {
+					
+					var curr_alt_id = alt_ids[per_counter];
+					poll_stats[curr_alt_id]['percent'] = parseInt(poll_stats[curr_alt_id]['votes'] * percent_per_vote);
+					
+					tot_percent += poll_stats[curr_alt_id]['percent'];
+				}
+				
+				$('#poll-num-votes-'+ein_poll_id).html('<p style="padding: 0; margin: 0;">Answers: <b>'+total_votes+'</b></p>');
+				
+				setTimeout(function() {
+				for(var insta = 0; insta < num_alts; insta++) {
+
+					var curraltid = alt_ids[insta];
+					var curraltpercent = poll_stats[curraltid]['percent'];
+					curraltpercentminus = 100-curraltpercent;
+						
+					$('#filler-'+curraltid).css("height",curraltpercentminus+"px");
+					$('#green-filler-'+curraltid).append('<center><span style="color: #fff; font-size: 12px; font-weight: bold;">'+curraltpercent+'%</span></span>');
+				}
+				},1100);
+			}
+		});
+	});
+});
+</script>
+</body></html>
+
+<!--/eri-no-index-->
+
+
+
+
+
+
+
+

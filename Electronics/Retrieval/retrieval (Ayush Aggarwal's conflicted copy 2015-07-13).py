@@ -1,9 +1,9 @@
 __author__ = 'poke19962008'
 
 '''
-    what is the features of Vostro 14 V3446?
-    what is the features of Vostro 14 V3446 Notebook?
-    what is the feature of Vostro 14 V3446?
+    what are the features of Vostro 14 V3446?
+    what are the features of Vostro 14 V3446 Notebook?
+    what are the feature of Vostro 14 V3446?
 '''
 
 import pymongo, json, sys
@@ -18,7 +18,7 @@ def main():
     dbh = con["brainse"]
 
     # string = " ".join(sys.argv[1:])
-    query = keywordExtractor.extract("what is the features of Vostro 14 V3446?")
+    query = keywordExtractor.extract("what are the features of Vostro 14 V3446?")
     what = [x for x in query if x in key]
     query.remove(what[0])
     model = " ".join(query)
